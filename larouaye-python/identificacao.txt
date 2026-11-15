@@ -1,0 +1,8 @@
+LarOuAyê - Orientador de aquisição (Python)
+Disciplina: Computational Thinking Using Python
+Integrantes (nome e RM):
+- Fernando Oliveira Francelino S. - RM 570196
+- Davi Felix Cunha - RM TROQUE
+- Jonatan Feitosa - RM TROQUE
+- Marcelo da Mata - RM TROQUE
+- Vinícius Liberato - RM TROQUE
