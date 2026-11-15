@@ -1,0 +1,10 @@
+FIAP - Global Solution 2026/2 - Artificial Intelligence & Chatbot
+Projeto: LarOuAye - "Seu primeiro imovel, sem juridiquês"
+Turma: 1TDS
+
+Integrantes (nome - RM):
+Davi Felix Cunha - RM TROQUE
+Fernando Oliveira Francelino S. - RM 570196
+Jonatan Feitosa - RM TROQUE
+Marcelo da Mata - RM TROQUE
+Vinicius Liberato - RM TROQUE
