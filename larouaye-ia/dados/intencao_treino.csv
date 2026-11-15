@@ -1,0 +1,691 @@
+texto,rotulo
+Posso comprar casa de heranca ainda em inventario? por favor,IMOVEL_USADO
+"por favor, como tirar carteira de motorista obrigado",FORA_DO_ESCOPO
+"boa tarde, se eu desistir perco o sinal",CONTRATO
+qual a diferenca entre escritura e registro pode explicar,ESCRITURA_REGISTRO
+"Ola, Quem tem direito a subsidio para comprar imovel?",FGTS_SUBSIDIOS
+"por favor, o que e leilao judicial me explica",LEILAO
+"por favor, quais bancos financiam a casa propria por favor",FINANCIAMENTO
+"Ola, Posso assinar o contrato sem advogado? por favor",CONTRATO
+"Preciso saber: A casa tem construcao sem averbacao, posso comprar? obrigado",IMOVEL_USADO
+Preciso saber: Quanto tempo demora para registrar o imovel?,ESCRITURA_REGISTRO
+qual o prazo maximo para pagar o financiamento,FINANCIAMENTO
+"por favor, quanto de entrada preciso dar por favor",FINANCIAMENTO
+preciso saber: quem tem direito a subsidio para comprar imovel me explica,FGTS_SUBSIDIOS
+Preciso saber: Como consultar meu saldo do FGTS para comprar casa?,FGTS_SUBSIDIOS
+Como descubro se um imovel tem dividas? me explica,MATRICULA_ONUS
+"O corretor alterou meu imposto de renda para conseguir o financiamento, o que acontece? pode explicar?",FRAUDE_GOLPES
+bom dia! existe isencao de itbi para primeiro imovel pode explicar,IMPOSTOS_TAXAS
+Pode me ajudar? Como descubro se um imovel tem dividas?,MATRICULA_ONUS
+Preciso saber: Como pedir o subsidio do governo? por favor,FGTS_SUBSIDIOS
+"A casa tem construcao sem averbacao, posso comprar?",IMOVEL_USADO
+"Ola, O contrato diz multa por atraso, esta certo?",CONTRATO
+"Ola, Quanto custa fazer a escritura? por favor",ESCRITURA_REGISTRO
+minha duvida: o que e promessa de compra e venda me explica,CONTRATO
+"oi, meu nome esta sujo, consigo financiar me explica",FINANCIAMENTO
+"Ola, Como pedir o subsidio do governo? por favor",FGTS_SUBSIDIOS
+Posso financiar imovel de leilao?,LEILAO
+Bom dia! Posso comprar imovel com penhora? pode explicar?,MATRICULA_ONUS
+Como pedir a certidao de onus reais?,MATRICULA_ONUS
+Preciso saber: Como saber se o leilao e confiavel? pode explicar?,LEILAO
+"boa tarde, o boleto do imovel veio com outro nome, e golpe pode explicar",FRAUDE_GOLPES
+"Boa tarde, O vendedor e casado, a esposa tem que assinar?",IMOVEL_USADO
+Pode me ajudar? Qual a diferenca entre SAC e Price? por favor,FINANCIAMENTO
+"por favor, como abrir uma empresa",FORA_DO_ESCOPO
+Quanto tempo de FGTS preciso ter?,FGTS_SUBSIDIOS
+Bom dia! Como esta o tempo hoje? me explica,FORA_DO_ESCOPO
+Pode me ajudar? Escritura e registro sao a mesma coisa?,ESCRITURA_REGISTRO
+"Pode me ajudar? O contrato diz multa por atraso, esta certo? me explica",CONTRATO
+como funciona o contrato de compra e venda,CONTRATO
+bom dia! o que e simulacao financeira,FRAUDE_GOLPES
+"Oi, O que e o laudemio e a taxa de transferencia? por favor",IMPOSTOS_TAXAS
+Posso desistir da compra depois de assinar?,CONTRATO
+Minha duvida: O que e ITBI e quem paga?,IMPOSTOS_TAXAS
+"ola, o vendedor e casado, a esposa tem que assinar",IMOVEL_USADO
+"Ola, Como funciona o Minha Casa Minha Vida?",FGTS_SUBSIDIOS
+o que e a matricula do imovel,MATRICULA_ONUS
+"Oi, O que e venda direta de imovel retomado pelo banco?",LEILAO
+minha duvida: quanto tempo leva para aprovar o financiamento me explica,FINANCIAMENTO
+O que e o sinal ou arras?,CONTRATO
+quais documentos levo ao cartorio para escriturar me explica,ESCRITURA_REGISTRO
+Como investir em acoes?,FORA_DO_ESCOPO
+Minha duvida: O que e alienacao fiduciaria na matricula? por favor,MATRICULA_ONUS
+"Por favor, Quem paga as dividas do imovel leiloado? pode explicar?",LEILAO
+preciso saber: como comprar um imovel usado com seguranca pode explicar,IMOVEL_USADO
+Quais documentos o vendedor precisa me entregar?,IMOVEL_USADO
+"Por favor, Pediram um sinal por PIX antes de ver o imovel, e seguro? pode explicar?",FRAUDE_GOLPES
+pode me ajudar posso assinar o contrato sem advogado,CONTRATO
+Como sei se o apartamento tem alguma pendencia na justica?,MATRICULA_ONUS
+quem paga a comissao do corretor,CONTRATO
+bom dia! como funciona comprar imovel em leilao me explica,LEILAO
+"O vendedor nao quer mostrar a matricula, e golpe?",FRAUDE_GOLPES
+"oi, o contrato diz multa por atraso, esta certo me explica",CONTRATO
+Quem ganhou o jogo ontem?,FORA_DO_ESCOPO
+"oi, qual a receita de bolo de cenoura",FORA_DO_ESCOPO
+"ola, como saber se o dono do imovel tem processos por favor",MATRICULA_ONUS
+Bom dia! Posso quitar o financiamento antes do prazo?,FINANCIAMENTO
+"Por favor, Como saber se o leilao e confiavel?",LEILAO
+"Ola, Quem ganhou o jogo ontem? me explica",FORA_DO_ESCOPO
+Pode me ajudar? Como funciona comprar imovel em leilao?,LEILAO
+Minha duvida: Inflaram a minha renda no pedido de financiamento,FRAUDE_GOLPES
+"Ola, Como saber se o dono do imovel tem processos?",MATRICULA_ONUS
+Como funciona o financiamento habitacional? por favor,FINANCIAMENTO
+"Oi, Quem paga as dividas do imovel leiloado?",LEILAO
+Bom dia! Como dar entrada no registro de imoveis?,ESCRITURA_REGISTRO
+bom dia! quanto custa o itbi,IMPOSTOS_TAXAS
+"Oi, Posso financiar imovel de leilao? por favor",LEILAO
+Preciso saber: O que conferir antes de comprar apartamento usado?,IMOVEL_USADO
+"Ola, Qual a capital da Franca?",FORA_DO_ESCOPO
+Minha duvida: O que e ganho de capital? por favor,IMPOSTOS_TAXAS
+Como abrir uma empresa?,FORA_DO_ESCOPO
+pode me ajudar alteraram minha declaracao de imposto de renda sem eu saber me explica,FRAUDE_GOLPES
+Pode me ajudar? Preciso registrar a escritura no cartorio de imoveis?,ESCRITURA_REGISTRO
+quero financiar um carro por favor,FORA_DO_ESCOPO
+"Oi, Quais sinais de fraude em financiamento?",FRAUDE_GOLPES
+Como declarar imposto de renda do trabalho?,FORA_DO_ESCOPO
+Como esta o tempo hoje? obrigado,FORA_DO_ESCOPO
+"Por favor, Posso financiar 100% do imovel? obrigado",FINANCIAMENTO
+"ola, posso financiar imovel de leilao pode explicar",LEILAO
+"Por favor, Quem paga a comissao do corretor?",CONTRATO
+Bom dia! Como ver quem e o verdadeiro dono do imovel? pode explicar?,MATRICULA_ONUS
+Quais sinais de fraude em financiamento?,FRAUDE_GOLPES
+pode me ajudar onde fica o cartorio mais proximo para fazer a escritura pode explicar,ESCRITURA_REGISTRO
+Bom dia! Posso ser punido se o corretor falsificou meus documentos?,FRAUDE_GOLPES
+Onde tiro a certidao atualizada da matricula?,MATRICULA_ONUS
+pode me ajudar o que e o laudemio e a taxa de transferencia por favor,IMPOSTOS_TAXAS
+bom dia! onde fica o cartorio mais proximo para fazer a escritura por favor,ESCRITURA_REGISTRO
+Vale a pena fazer vistoria antes da compra?,IMOVEL_USADO
+"Ola, O FGTS vale para imovel usado?",FGTS_SUBSIDIOS
+"preciso saber: o imovel tem hipoteca, e agora por favor",MATRICULA_ONUS
+Preciso saber: Quanto custa o ITBI? me explica,IMPOSTOS_TAXAS
+pode me ajudar quais documentos levo ao cartorio para escriturar,ESCRITURA_REGISTRO
+"Ola, O vendedor e casado, a esposa tem que assinar? obrigado",IMOVEL_USADO
+"ola, como dar entrada no registro de imoveis",ESCRITURA_REGISTRO
+Pode me ajudar? O que e a matricula do imovel?,MATRICULA_ONUS
+Preciso saber: Me ajuda com meu dever de casa de matematica por favor,FORA_DO_ESCOPO
+Qual o prazo maximo para pagar o financiamento?,FINANCIAMENTO
+Preciso de advogado para comprar em leilao?,LEILAO
+O que e alienacao fiduciaria na matricula?,MATRICULA_ONUS
+"Por favor, Posso assinar o contrato sem advogado? me explica",CONTRATO
+O que e o laudemio e a taxa de transferencia? por favor,IMPOSTOS_TAXAS
+Quais clausulas devo olhar no contrato?,CONTRATO
+"Pode me ajudar? O corretor alterou meu imposto de renda para conseguir o financiamento, o que acontece?",FRAUDE_GOLPES
+"O corretor mandou assinar um contrato, devo assinar?",CONTRATO
+Quando vence o ITBI? me explica,IMPOSTOS_TAXAS
+"Por favor, Quanto tempo de FGTS preciso ter? pode explicar?",FGTS_SUBSIDIOS
+"ola, o corretor disse que faz acontecer com a renda, devo confiar por favor",FRAUDE_GOLPES
+pode me ajudar o que e distrato,CONTRATO
+Preciso saber: Quem paga as dividas do imovel leiloado?,LEILAO
+Como descubro se um imovel tem dividas?,MATRICULA_ONUS
+Quero saber se o imovel esta penhorado me explica,MATRICULA_ONUS
+"Oi, So tenho contrato de gaveta, isso vale? por favor",ESCRITURA_REGISTRO
+Preciso reconhecer firma no contrato? me explica,CONTRATO
+como denunciar fraude em compra de imovel,FRAUDE_GOLPES
+O FGTS paga parcela do financiamento? por favor,FGTS_SUBSIDIOS
+Onde fica o cartorio mais proximo para fazer a escritura?,ESCRITURA_REGISTRO
+"Ola, Corretor disse para declarar uma renda maior, tem problema?",FRAUDE_GOLPES
+Como denunciar fraude em compra de imovel?,FRAUDE_GOLPES
+Pode me ajudar? Como funciona o contrato de compra e venda?,CONTRATO
+Posso financiar 100% do imovel?,FINANCIAMENTO
+Pode me ajudar? Posso comprar imovel com penhora?,MATRICULA_ONUS
+Preciso reconhecer firma no contrato?,CONTRATO
+"por favor, como pedir a certidao de onus reais",MATRICULA_ONUS
+minha duvida: qual a receita de bolo de cenoura,FORA_DO_ESCOPO
+preciso saber: que certidoes preciso pedir sobre o imovel,MATRICULA_ONUS
+"O imovel tem hipoteca, e agora?",MATRICULA_ONUS
+Bom dia! O que e leilao judicial?,LEILAO
+Preciso saber: Quais documentos pedem no financiamento? obrigado,FINANCIAMENTO
+Qual a capital da Franca?,FORA_DO_ESCOPO
+O que significa averbacao na matricula?,MATRICULA_ONUS
+bom dia! quais taxas de cartorio vou pagar por favor,IMPOSTOS_TAXAS
+"Oi, Posso desistir da arrematacao?",LEILAO
+"Por favor, Qual a capital da Franca?",FORA_DO_ESCOPO
+pode me ajudar como emagrecer rapido pode explicar,FORA_DO_ESCOPO
+E crime aumentar a renda para aprovar financiamento?,FRAUDE_GOLPES
+"Preciso saber: O imovel esta em nome de pessoa falecida, posso comprar?",IMOVEL_USADO
+Preciso saber: Preciso declarar o imovel no imposto de renda? me explica,IMPOSTOS_TAXAS
+Minha duvida: Como pedir a certidao de onus reais?,MATRICULA_ONUS
+preciso saber: o que e escritura publica,ESCRITURA_REGISTRO
+bom dia! qual a diferenca entre sac e price por favor,FINANCIAMENTO
+"Ola, Casa sem escritura posso comprar? pode explicar?",ESCRITURA_REGISTRO
+Bom dia! Quanto tempo de FGTS preciso ter? obrigado,FGTS_SUBSIDIOS
+"Meu nome esta sujo, consigo financiar?",FINANCIAMENTO
+"Boa tarde, Qual a capital da Franca? pode explicar?",FORA_DO_ESCOPO
+"oi, qual o melhor celular para comprar",FORA_DO_ESCOPO
+"Boa tarde, Como tirar carteira de motorista?",FORA_DO_ESCOPO
+Como saber se o anuncio do imovel e golpe? obrigado,FRAUDE_GOLPES
+Quem tem direito a subsidio para comprar imovel?,FGTS_SUBSIDIOS
+"oi, o corretor colocou minha esposa como dependente para aumentar a renda",FRAUDE_GOLPES
+"boa tarde, o vendedor e casado, a esposa tem que assinar pode explicar",IMOVEL_USADO
+O que e ITBI e quem paga?,IMPOSTOS_TAXAS
+Posso desistir da arrematacao? pode explicar?,LEILAO
+"ola, como saber se o anuncio do imovel e golpe pode explicar",FRAUDE_GOLPES
+Preciso saber: Quais taxas de cartorio vou pagar?,IMPOSTOS_TAXAS
+"Oi, Quais custos alem do valor do imovel?",IMPOSTOS_TAXAS
+"se tiver gente morando no imovel do leilao, e agora por favor",LEILAO
+minha duvida: posso comprar imovel com penhora,MATRICULA_ONUS
+Preciso saber: Como checar a area do terreno e da casa? me explica,IMOVEL_USADO
+Quais clausulas devo olhar no contrato? me explica,CONTRATO
+preciso saber: e crime aumentar a renda para aprovar financiamento,FRAUDE_GOLPES
+"oi, tem comissao do leiloeiro",LEILAO
+minha duvida: posso usar o fgts na entrada me explica,FGTS_SUBSIDIOS
+preciso saber: quais custos alem do valor do imovel,IMPOSTOS_TAXAS
+"O vendedor e casado, a esposa tem que assinar?",IMOVEL_USADO
+"Ola, Quais bancos financiam a casa propria? me explica",FINANCIAMENTO
+Pode me ajudar? Contrato de gaveta e seguro?,CONTRATO
+"Por favor, Tem que ver o habite-se do imovel? por favor",IMOVEL_USADO
+Imovel de leilao da Caixa e seguro?,LEILAO
+Preciso saber: Casa sem escritura posso comprar?,ESCRITURA_REGISTRO
+"Oi, Posso desistir da compra depois de assinar? me explica",CONTRATO
+Preciso saber: Quais os riscos do leilao de imoveis?,LEILAO
+Existe isencao de ITBI para primeiro imovel?,IMPOSTOS_TAXAS
+Minha duvida: Como dar entrada no registro de imoveis? obrigado,ESCRITURA_REGISTRO
+minha duvida: quero financiar um carro me explica,FORA_DO_ESCOPO
+"Ola, Como saber se o condominio tem dividas?",IMOVEL_USADO
+"So tenho contrato de gaveta, isso vale?",ESCRITURA_REGISTRO
+"por favor, quanto tempo leva para aprovar o financiamento por favor",FINANCIAMENTO
+"Por favor, Quanto tempo leva para aprovar o financiamento? por favor",FINANCIAMENTO
+"Ola, Quem paga a comissao do corretor? por favor",CONTRATO
+Posso quitar o financiamento antes do prazo? pode explicar?,FINANCIAMENTO
+"por favor, quais os riscos do leilao de imoveis",LEILAO
+Bom dia! O que significa averbacao na matricula? obrigado,MATRICULA_ONUS
+Como funciona o contrato de compra e venda? me explica,CONTRATO
+"pode me ajudar o boleto do imovel veio com outro nome, e golpe",FRAUDE_GOLPES
+Preciso saber: Tem ajuda do governo para primeira casa?,FGTS_SUBSIDIOS
+O que e o laudemio e a taxa de transferencia?,IMPOSTOS_TAXAS
+"Oi, Me ajuda com meu dever de casa de matematica obrigado",FORA_DO_ESCOPO
+Pode me ajudar? Como saber se o condominio tem dividas?,IMOVEL_USADO
+"oi, como checar a area do terreno e da casa",IMOVEL_USADO
+Se eu desistir perco o sinal?,CONTRATO
+"oi, o fgts vale para imovel usado",FGTS_SUBSIDIOS
+Preciso saber: Como declarar imposto de renda do trabalho?,FORA_DO_ESCOPO
+bom dia! quais documentos o vendedor precisa me entregar pode explicar,IMOVEL_USADO
+Preciso saber: O que significa averbacao na matricula?,MATRICULA_ONUS
+"Boa tarde, Pediram um sinal por PIX antes de ver o imovel, e seguro?",FRAUDE_GOLPES
+"bom dia! o corretor disse que faz acontecer com a renda, devo confiar",FRAUDE_GOLPES
+pode me ajudar o que e alienacao fiduciaria na matricula obrigado,MATRICULA_ONUS
+Bom dia! Quero alugar um apartamento,FORA_DO_ESCOPO
+"Por favor, Quem paga o ITBI, comprador ou vendedor? me explica",IMPOSTOS_TAXAS
+escritura e registro sao a mesma coisa obrigado,ESCRITURA_REGISTRO
+Quem paga as dividas do imovel leiloado?,LEILAO
+Pode me ajudar? Alteraram minha declaracao de imposto de renda sem eu saber,FRAUDE_GOLPES
+"Por favor, Qual o prazo maximo para pagar o financiamento?",FINANCIAMENTO
+Minha duvida: Quero financiar um carro por favor,FORA_DO_ESCOPO
+o que e a faixa 1 do programa de moradia pode explicar,FGTS_SUBSIDIOS
+pode me ajudar o que e a matricula do imovel por favor,MATRICULA_ONUS
+Preciso declarar o imovel no imposto de renda?,IMPOSTOS_TAXAS
+"Ola, Alteraram minha declaracao de imposto de renda sem eu saber",FRAUDE_GOLPES
+"Boa tarde, Quais documentos o vendedor precisa me entregar?",IMOVEL_USADO
+Bom dia! O que e o laudemio e a taxa de transferencia? obrigado,IMPOSTOS_TAXAS
+Quais impostos pago ao comprar um imovel?,IMPOSTOS_TAXAS
+"Boa tarde, Qual a diferenca entre SAC e Price? pode explicar?",FINANCIAMENTO
+Como funciona o Minha Casa Minha Vida?,FGTS_SUBSIDIOS
+"Boa tarde, Como comprar um imovel usado com seguranca? pode explicar?",IMOVEL_USADO
+Minha duvida: Posso financiar 100% do imovel? por favor,FINANCIAMENTO
+"boa tarde, o que e a faixa 1 do programa de moradia",FGTS_SUBSIDIOS
+Bom dia! O que e o sinal ou arras?,CONTRATO
+Pode me ajudar? Quero alugar um apartamento por favor,FORA_DO_ESCOPO
+Preciso saber: O imovel so e meu depois do registro?,ESCRITURA_REGISTRO
+Pode me ajudar? Vale a pena fazer vistoria antes da compra? por favor,IMOVEL_USADO
+"por favor, preciso pedir certidao negativa do condominio",IMOVEL_USADO
+preciso saber: preciso pedir certidao negativa do condominio me explica,IMOVEL_USADO
+"por favor, o vendedor nao quer mostrar a matricula, e golpe",FRAUDE_GOLPES
+Preciso pedir certidao negativa do condominio?,IMOVEL_USADO
+Bom dia! Quanto custa o ITBI? me explica,IMPOSTOS_TAXAS
+"Boa tarde, Como funciona o financiamento habitacional? por favor",FINANCIAMENTO
+Quanto de entrada preciso dar?,FINANCIAMENTO
+Como emagrecer rapido?,FORA_DO_ESCOPO
+pode me ajudar como checar se o imovel possui escritura pode explicar,ESCRITURA_REGISTRO
+pode me ajudar vale a pena fazer vistoria antes da compra,IMOVEL_USADO
+preco muito abaixo do mercado e golpe pode explicar,FRAUDE_GOLPES
+"Boa tarde, O que e a matricula do imovel? obrigado",MATRICULA_ONUS
+"boa tarde, contrato de gaveta e seguro por favor",CONTRATO
+"Boa tarde, Como investir em acoes? por favor",FORA_DO_ESCOPO
+Quanto tempo leva para aprovar o financiamento?,FINANCIAMENTO
+quais impostos pago ao comprar um imovel pode explicar,IMPOSTOS_TAXAS
+Minha duvida: O FGTS paga parcela do financiamento? me explica,FGTS_SUBSIDIOS
+"ola, como comprar um imovel usado com seguranca pode explicar",IMOVEL_USADO
+"Ola, O corretor mudou meu IRRF para o banco aprovar, e agora?",FRAUDE_GOLPES
+Pode me ajudar? O que e promessa de compra e venda? pode explicar?,CONTRATO
+Bom dia! Quem ganhou o jogo ontem? por favor,FORA_DO_ESCOPO
+"Ja assinei documento com renda falsa, o que fazer? por favor",FRAUDE_GOLPES
+Qual a renda maxima para o Minha Casa Minha Vida?,FGTS_SUBSIDIOS
+Preco muito abaixo do mercado e golpe?,FRAUDE_GOLPES
+pode me ajudar onde fica o cartorio mais proximo para fazer a escritura,ESCRITURA_REGISTRO
+vale a pena fazer vistoria antes da compra,IMOVEL_USADO
+"boa tarde, a parcela pode passar de 30% da renda pode explicar",FINANCIAMENTO
+"ola, como abrir uma empresa pode explicar",FORA_DO_ESCOPO
+"Oi, O corretor colocou minha esposa como dependente para aumentar a renda pode explicar?",FRAUDE_GOLPES
+Preciso saber: Qual o prazo maximo para pagar o financiamento?,FINANCIAMENTO
+Minha duvida: Imovel de leilao da Caixa e seguro? obrigado,LEILAO
+Como confirmar se o vendedor e o dono mesmo?,IMOVEL_USADO
+o que e venda direta de imovel retomado pelo banco obrigado,LEILAO
+Quanto custa fazer a escritura?,ESCRITURA_REGISTRO
+"ola, quem ganhou o jogo ontem",FORA_DO_ESCOPO
+preciso saber: como tirar carteira de motorista,FORA_DO_ESCOPO
+Quero financiar um carro por favor,FORA_DO_ESCOPO
+"Por favor, O que e ITBI e quem paga? por favor",IMPOSTOS_TAXAS
+"oi, o vendedor nao quer mostrar a matricula, e golpe pode explicar",FRAUDE_GOLPES
+Quais bancos financiam a casa propria?,FINANCIAMENTO
+minha duvida: como saber se o leilao e confiavel,LEILAO
+Como funciona a avaliacao do imovel pelo banco? me explica,FINANCIAMENTO
+alguem pode usar meu nome para financiar imovel me explica,FRAUDE_GOLPES
+O que e escritura publica?,ESCRITURA_REGISTRO
+Bom dia! Como sei se o apartamento tem alguma pendencia na justica? pode explicar?,MATRICULA_ONUS
+"Ola, Ja tive imovel, ainda posso usar o FGTS? por favor",FGTS_SUBSIDIOS
+Pode me ajudar? Me conta uma piada,FORA_DO_ESCOPO
+minha duvida: o que e taxa de juros efetiva no financiamento,FINANCIAMENTO
+Qual a diferenca entre primeiro e segundo leilao?,LEILAO
+"Bom dia! A casa tem construcao sem averbacao, posso comprar?",IMOVEL_USADO
+Quanto tempo demora para registrar o imovel?,ESCRITURA_REGISTRO
+"Se tiver gente morando no imovel do leilao, e agora?",LEILAO
+"O corretor disse que faz acontecer com a renda, devo confiar?",FRAUDE_GOLPES
+"Por favor, O que e distrato?",CONTRATO
+"por favor, como denunciar fraude em compra de imovel",FRAUDE_GOLPES
+Posso usar FGTS de outra pessoa?,FGTS_SUBSIDIOS
+tenho que pagar iptu atrasado do vendedor me explica,IMPOSTOS_TAXAS
+"Ola, O que conferir antes de comprar apartamento usado?",IMOVEL_USADO
+Que certidoes preciso pedir sobre o imovel?,MATRICULA_ONUS
+Pode me ajudar? Quais clausulas devo olhar no contrato?,CONTRATO
+"Oi, Como confirmar se o vendedor e o dono mesmo?",IMOVEL_USADO
+"oi, que problemas aparecem em imovel antigo",IMOVEL_USADO
+"Corretor disse para declarar uma renda maior, tem problema?",FRAUDE_GOLPES
+"boa tarde, como funciona o financiamento habitacional",FINANCIAMENTO
+quando vence o itbi por favor,IMPOSTOS_TAXAS
+"Boa tarde, Como declarar imposto de renda do trabalho?",FORA_DO_ESCOPO
+Inflaram a minha renda no pedido de financiamento,FRAUDE_GOLPES
+"Boa tarde, A casa tem construcao sem averbacao, posso comprar? por favor",IMOVEL_USADO
+"Boa tarde, So tenho contrato de gaveta, isso vale? pode explicar?",ESCRITURA_REGISTRO
+"Oi, Que problemas aparecem em imovel antigo?",IMOVEL_USADO
+Pode me ajudar? Qual a renda maxima para o Minha Casa Minha Vida?,FGTS_SUBSIDIOS
+"minha duvida: o corretor alterou meu imposto de renda para conseguir o financiamento, o que acontece por favor",FRAUDE_GOLPES
+A parcela pode passar de 30% da renda?,FINANCIAMENTO
+"oi, como funciona comprar imovel em leilao pode explicar",LEILAO
+"Boa tarde, Ja tive imovel, ainda posso usar o FGTS?",FGTS_SUBSIDIOS
+"pode me ajudar corretor disse para declarar uma renda maior, tem problema",FRAUDE_GOLPES
+bom dia! qual o prazo para entregar o imovel no contrato,CONTRATO
+Minha duvida: Como checar a area do terreno e da casa? me explica,IMOVEL_USADO
+"O boleto do imovel veio com outro nome, e golpe?",FRAUDE_GOLPES
+"ola, meu nome esta sujo, consigo financiar obrigado",FINANCIAMENTO
+Posso comprar imovel com penhora?,MATRICULA_ONUS
+O que e a matricula do imovel?,MATRICULA_ONUS
+"Ola, Quem tem direito a subsidio para comprar imovel? me explica",FGTS_SUBSIDIOS
+Preciso saber: Inflaram a minha renda no pedido de financiamento por favor,FRAUDE_GOLPES
+Pode me ajudar? Como funciona a avaliacao do imovel pelo banco?,FINANCIAMENTO
+O FGTS vale para imovel usado?,FGTS_SUBSIDIOS
+O que e taxa de juros efetiva no financiamento?,FINANCIAMENTO
+minha duvida: quais clausulas devo olhar no contrato obrigado,CONTRATO
+Tenho que pagar IPTU atrasado do vendedor?,IMPOSTOS_TAXAS
+"ola, onde tiro a certidao atualizada da matricula",MATRICULA_ONUS
+Posso assinar o contrato sem advogado?,CONTRATO
+Bom dia! Como declarar imposto de renda do trabalho? pode explicar?,FORA_DO_ESCOPO
+Escritura e registro sao a mesma coisa?,ESCRITURA_REGISTRO
+Quando vence o ITBI?,IMPOSTOS_TAXAS
+"boa tarde, quais bancos financiam a casa propria por favor",FINANCIAMENTO
+Posso quitar o financiamento antes do prazo?,FINANCIAMENTO
+Minha duvida: Quanto de entrada preciso dar?,FINANCIAMENTO
+Como ver quem e o verdadeiro dono do imovel?,MATRICULA_ONUS
+Como pedir a certidao de onus reais? pode explicar?,MATRICULA_ONUS
+minha duvida: quais custos alem do valor do imovel pode explicar,IMPOSTOS_TAXAS
+Pode me ajudar? Como saber se o anuncio do imovel e golpe?,FRAUDE_GOLPES
+Bom dia! O que e ITBI e quem paga? pode explicar?,IMPOSTOS_TAXAS
+"Por favor, Me conta uma piada",FORA_DO_ESCOPO
+Bom dia! Quais taxas de cartorio vou pagar? obrigado,IMPOSTOS_TAXAS
+"Corretor pediu para colocar minha esposa como dependente no IR, posso?",FRAUDE_GOLPES
+"oi, quais impostos pago ao comprar um imovel",IMPOSTOS_TAXAS
+"So tenho contrato de gaveta, isso vale? pode explicar?",ESCRITURA_REGISTRO
+bom dia! pago imposto de renda quando vendo imovel obrigado,IMPOSTOS_TAXAS
+Minha duvida: Como denunciar fraude em compra de imovel? por favor,FRAUDE_GOLPES
+bom dia! quem paga a comissao do corretor,CONTRATO
+"Minha duvida: O corretor disse que faz acontecer com a renda, devo confiar? por favor",FRAUDE_GOLPES
+Alteraram minha declaracao de imposto de renda sem eu saber,FRAUDE_GOLPES
+preciso saber: qual a diferenca entre sac e price por favor,FINANCIAMENTO
+Tem ajuda do governo para primeira casa?,FGTS_SUBSIDIOS
+"boa tarde, como funciona o financiamento habitacional me explica",FINANCIAMENTO
+Quais custos alem do valor do imovel?,IMPOSTOS_TAXAS
+"boa tarde, onde tiro a certidao atualizada da matricula me explica",MATRICULA_ONUS
+Como ver quem e o verdadeiro dono do imovel? me explica,MATRICULA_ONUS
+"boa tarde, o que e escritura publica me explica",ESCRITURA_REGISTRO
+"Ola, Preciso de advogado para fazer a escritura?",ESCRITURA_REGISTRO
+Minha duvida: Quais sinais de fraude em financiamento?,FRAUDE_GOLPES
+Preciso saber: Qual a receita de bolo de cenoura? por favor,FORA_DO_ESCOPO
+"Oi, A casa tem construcao sem averbacao, posso comprar? por favor",IMOVEL_USADO
+Pode me ajudar? Como confirmar se o vendedor e o dono mesmo?,IMOVEL_USADO
+minha duvida: o imovel so e meu depois do registro,ESCRITURA_REGISTRO
+"ola, quais sinais de fraude em financiamento",FRAUDE_GOLPES
+Pode me ajudar? O que significa averbacao na matricula?,MATRICULA_ONUS
+"oi, o fgts paga parcela do financiamento por favor",FGTS_SUBSIDIOS
+Posso usar o FGTS para comprar a casa?,FGTS_SUBSIDIOS
+Preciso saber: Qual o prazo para entregar o imovel no contrato? por favor,CONTRATO
+bom dia! posso desistir da arrematacao por favor,LEILAO
+Tem que ver o habite-se do imovel?,IMOVEL_USADO
+Minha duvida: Preciso de advogado para comprar em leilao?,LEILAO
+"Bom dia! Ja assinei documento com renda falsa, o que fazer?",FRAUDE_GOLPES
+Contrato de gaveta e seguro?,CONTRATO
+"Ola, O que e escritura publica? por favor",ESCRITURA_REGISTRO
+O que e a Faixa 1 do programa de moradia?,FGTS_SUBSIDIOS
+Pode me ajudar? O que e distrato? me explica,CONTRATO
+Pode me ajudar? Quanto tempo demora para registrar o imovel? me explica,ESCRITURA_REGISTRO
+"por favor, quais bancos financiam a casa propria me explica",FINANCIAMENTO
+Como saber se o anuncio do imovel e golpe?,FRAUDE_GOLPES
+Pode me ajudar? Quais documentos pedem no financiamento? por favor,FINANCIAMENTO
+preciso saber: quanto tempo leva para aprovar o financiamento por favor,FINANCIAMENTO
+"minha duvida: o imovel esta em nome de pessoa falecida, posso comprar",IMOVEL_USADO
+"Pode me ajudar? O imovel tem hipoteca, e agora?",MATRICULA_ONUS
+Minha duvida: Existe isencao de ITBI para primeiro imovel? me explica,IMPOSTOS_TAXAS
+Bom dia! Da para visitar o imovel antes do leilao? pode explicar?,LEILAO
+Pode me ajudar? Posso financiar 100% do imovel? pode explicar?,FINANCIAMENTO
+"boa tarde, o corretor mandou assinar um contrato, devo assinar pode explicar",CONTRATO
+pode me ajudar a parcela pode passar de 30% da renda por favor,FINANCIAMENTO
+"boa tarde, existe isencao de itbi para primeiro imovel me explica",IMPOSTOS_TAXAS
+preciso saber: posso comprar casa de heranca ainda em inventario obrigado,IMOVEL_USADO
+Minha duvida: Como declarar imposto de renda do trabalho? por favor,FORA_DO_ESCOPO
+"Ola, O corretor mandou assinar um contrato, devo assinar? pode explicar?",CONTRATO
+Como funciona comprar imovel em leilao?,LEILAO
+"Por favor, Como denunciar fraude em compra de imovel? obrigado",FRAUDE_GOLPES
+"ola, alteraram minha declaracao de imposto de renda sem eu saber pode explicar",FRAUDE_GOLPES
+"Por favor, Corretor pediu para colocar minha esposa como dependente no IR, posso? por favor",FRAUDE_GOLPES
+o que e taxa de juros efetiva no financiamento pode explicar,FINANCIAMENTO
+quero saber se o imovel esta penhorado por favor,MATRICULA_ONUS
+"por favor, o corretor mudou meu irrf para o banco aprovar, e agora obrigado",FRAUDE_GOLPES
+Pode me ajudar? Tem ajuda do governo para primeira casa?,FGTS_SUBSIDIOS
+Qual a diferenca entre SAC e Price?,FINANCIAMENTO
+Pode me ajudar? Tem que ver o habite-se do imovel?,IMOVEL_USADO
+Quais documentos levo ao cartorio para escriturar? obrigado,ESCRITURA_REGISTRO
+"Por favor, O que e ITBI e quem paga?",IMPOSTOS_TAXAS
+"Ola, O que e o sinal ou arras?",CONTRATO
+Me ajuda com meu dever de casa de matematica,FORA_DO_ESCOPO
+Preciso saber: Como pagar o ITBI na prefeitura?,IMPOSTOS_TAXAS
+"Por favor, Posso financiar imovel de leilao? por favor",LEILAO
+onde tiro a certidao atualizada da matricula por favor,MATRICULA_ONUS
+A casa esta no nome de quem vendeu?,MATRICULA_ONUS
+Quero saber se o imovel esta penhorado,MATRICULA_ONUS
+Bom dia! Como sei se o apartamento tem alguma pendencia na justica?,MATRICULA_ONUS
+bom dia! o fgts paga parcela do financiamento,FGTS_SUBSIDIOS
+minha duvida: o que e distrato,CONTRATO
+pode me ajudar o fgts vale para imovel usado obrigado,FGTS_SUBSIDIOS
+Como comprar um imovel usado com seguranca?,IMOVEL_USADO
+Minha duvida: Tem ajuda do governo para primeira casa?,FGTS_SUBSIDIOS
+"Boa tarde, Quais impostos pago ao comprar um imovel?",IMPOSTOS_TAXAS
+Pode me ajudar? Qual o melhor celular para comprar?,FORA_DO_ESCOPO
+Preciso saber: Alguem pode usar meu nome para financiar imovel? me explica,FRAUDE_GOLPES
+como pedir o subsidio do governo,FGTS_SUBSIDIOS
+"preciso saber: ja tive imovel, ainda posso usar o fgts",FGTS_SUBSIDIOS
+Quanto custa fazer a escritura? me explica,ESCRITURA_REGISTRO
+minha duvida: da para visitar o imovel antes do leilao pode explicar,LEILAO
+Posso desistir da arrematacao?,LEILAO
+Minha duvida: Como ver quem e o verdadeiro dono do imovel? por favor,MATRICULA_ONUS
+"ola, preco muito abaixo do mercado e golpe",FRAUDE_GOLPES
+Bom dia! O que e a Faixa 1 do programa de moradia?,FGTS_SUBSIDIOS
+"Ola, O imovel esta em nome de pessoa falecida, posso comprar?",IMOVEL_USADO
+Como consultar meu saldo do FGTS para comprar casa?,FGTS_SUBSIDIOS
+O que e venda direta de imovel retomado pelo banco?,LEILAO
+me ajuda com meu dever de casa de matematica,FORA_DO_ESCOPO
+"bom dia! o boleto do imovel veio com outro nome, e golpe obrigado",FRAUDE_GOLPES
+posso usar fgts de outra pessoa,FGTS_SUBSIDIOS
+"so tenho contrato de gaveta, isso vale",ESCRITURA_REGISTRO
+pode me ajudar preciso de advogado para fazer a escritura me explica,ESCRITURA_REGISTRO
+"por favor, o que e alienacao fiduciaria na matricula",MATRICULA_ONUS
+"oi, quais clausulas devo olhar no contrato",CONTRATO
+"Por favor, Tem comissao do leiloeiro? obrigado",LEILAO
+"ola, preciso reconhecer firma no contrato obrigado",CONTRATO
+Como dar entrada no registro de imoveis?,ESCRITURA_REGISTRO
+Minha duvida: Tem que ver o habite-se do imovel?,IMOVEL_USADO
+Quem paga a comissao do corretor?,CONTRATO
+Minha duvida: Qual a diferenca entre escritura e registro? obrigado,ESCRITURA_REGISTRO
+"Boa tarde, Preco muito abaixo do mercado e golpe? obrigado",FRAUDE_GOLPES
+"boa tarde, o corretor mandou assinar um contrato, devo assinar",CONTRATO
+Bom dia! E crime aumentar a renda para aprovar financiamento?,FRAUDE_GOLPES
+"Por favor, Posso usar o FGTS para comprar a casa? por favor",FGTS_SUBSIDIOS
+"boa tarde, que certidoes preciso pedir sobre o imovel",MATRICULA_ONUS
+Pode me ajudar? O que e leilao judicial? por favor,LEILAO
+"pode me ajudar o imovel tem hipoteca, e agora me explica",MATRICULA_ONUS
+preciso saber: o que e taxa de juros efetiva no financiamento me explica,FINANCIAMENTO
+"oi, meu nome esta sujo, consigo financiar",FINANCIAMENTO
+Como saber se o condominio tem dividas?,IMOVEL_USADO
+"Ola, Quais documentos o vendedor precisa me entregar? me explica",IMOVEL_USADO
+Onde fica o cartorio mais proximo para fazer a escritura? por favor,ESCRITURA_REGISTRO
+"Ja assinei documento com renda falsa, o que fazer?",FRAUDE_GOLPES
+que problemas aparecem em imovel antigo,IMOVEL_USADO
+bom dia! como saber se o condominio tem dividas obrigado,IMOVEL_USADO
+"ola, me conta uma piada pode explicar",FORA_DO_ESCOPO
+"Ola, O que e leilao judicial? pode explicar?",LEILAO
+"por favor, qual a diferenca entre primeiro e segundo leilao me explica",LEILAO
+Como checar se o imovel possui escritura?,ESCRITURA_REGISTRO
+Posso comprar casa de heranca ainda em inventario?,IMOVEL_USADO
+Bom dia! Posso usar o FGTS para comprar a casa? obrigado,FGTS_SUBSIDIOS
+"boa tarde, tenho que pagar iptu atrasado do vendedor por favor",IMPOSTOS_TAXAS
+Como funciona a avaliacao do imovel pelo banco?,FINANCIAMENTO
+"Ola, Posso financiar 100% do imovel?",FINANCIAMENTO
+"por favor, posso comprar casa de heranca ainda em inventario obrigado",IMOVEL_USADO
+"minha duvida: o corretor disse que faz acontecer com a renda, devo confiar",FRAUDE_GOLPES
+contrato de gaveta e seguro pode explicar,CONTRATO
+Posso ser punido se o corretor falsificou meus documentos? obrigado,FRAUDE_GOLPES
+bom dia! o corretor colocou minha esposa como dependente para aumentar a renda,FRAUDE_GOLPES
+"Boa tarde, Qual a renda maxima para o Minha Casa Minha Vida? me explica",FGTS_SUBSIDIOS
+O que e leilao judicial?,LEILAO
+Quais documentos pedem no financiamento?,FINANCIAMENTO
+"Por favor, Como pagar o ITBI na prefeitura? pode explicar?",IMPOSTOS_TAXAS
+Pode me ajudar? Quais documentos pedem no financiamento? obrigado,FINANCIAMENTO
+Como funciona o Minha Casa Minha Vida? pode explicar?,FGTS_SUBSIDIOS
+"por favor, posso usar a renda do meu marido para financiar",FINANCIAMENTO
+"Quem paga o ITBI, comprador ou vendedor?",IMPOSTOS_TAXAS
+Preciso saber: O que e ganho de capital?,IMPOSTOS_TAXAS
+"Oi, Quanto de entrada preciso dar? me explica",FINANCIAMENTO
+preciso saber: se eu desistir perco o sinal,CONTRATO
+"Por favor, Como saber se o anuncio do imovel e golpe?",FRAUDE_GOLPES
+"bom dia! corretor disse para declarar uma renda maior, tem problema obrigado",FRAUDE_GOLPES
+preciso saber: preciso de advogado para comprar em leilao,LEILAO
+"Boa tarde, Alguem pode usar meu nome para financiar imovel? pode explicar?",FRAUDE_GOLPES
+Quero alugar um apartamento,FORA_DO_ESCOPO
+Bom dia! Posso usar o FGTS na entrada?,FGTS_SUBSIDIOS
+Preciso saber: Quais os riscos do leilao de imoveis? me explica,LEILAO
+Preciso saber: Como funciona a avaliacao do imovel pelo banco?,FINANCIAMENTO
+Minha duvida: Qual o prazo para entregar o imovel no contrato? obrigado,CONTRATO
+"Por favor, Qual a renda maxima para o Minha Casa Minha Vida? por favor",FGTS_SUBSIDIOS
+"Boa tarde, Posso usar o FGTS na entrada? pode explicar?",FGTS_SUBSIDIOS
+"bom dia! ja assinei documento com renda falsa, o que fazer",FRAUDE_GOLPES
+"boa tarde, como pedir a certidao de onus reais pode explicar",MATRICULA_ONUS
+Qual o prazo maximo para pagar o financiamento? pode explicar?,FINANCIAMENTO
+preciso saber: imovel de leilao da caixa e seguro pode explicar,LEILAO
+"Oi, O imovel so e meu depois do registro? me explica",ESCRITURA_REGISTRO
+"Boa tarde, O que e escritura publica? obrigado",ESCRITURA_REGISTRO
+pode me ajudar imovel de leilao da caixa e seguro por favor,LEILAO
+"Por favor, Quanto tempo demora para registrar o imovel?",ESCRITURA_REGISTRO
+"Ola, Que certidoes preciso pedir sobre o imovel? pode explicar?",MATRICULA_ONUS
+Minha duvida: Escritura e registro sao a mesma coisa?,ESCRITURA_REGISTRO
+"Ola, Posso quitar o financiamento antes do prazo?",FINANCIAMENTO
+Qual o prazo para entregar o imovel no contrato?,CONTRATO
+Pode me ajudar? Imovel de leilao da Caixa e seguro? pode explicar?,LEILAO
+"boa tarde, que problemas aparecem em imovel antigo obrigado",IMOVEL_USADO
+minha duvida: posso usar fgts de outra pessoa,FGTS_SUBSIDIOS
+Pago imposto de renda quando vendo imovel?,IMPOSTOS_TAXAS
+O que conferir antes de comprar apartamento usado?,IMOVEL_USADO
+O que e ganho de capital?,IMPOSTOS_TAXAS
+"Oi, O que e ganho de capital? por favor",IMPOSTOS_TAXAS
+"oi, como investir em acoes",FORA_DO_ESCOPO
+"por favor, se tiver gente morando no imovel do leilao, e agora",LEILAO
+"oi, o corretor mandou assinar um contrato, devo assinar por favor",CONTRATO
+Qual a receita de bolo de cenoura?,FORA_DO_ESCOPO
+"boa tarde, o que e promessa de compra e venda me explica",CONTRATO
+"Oi, Quanto tempo de FGTS preciso ter? me explica",FGTS_SUBSIDIOS
+"Boa tarde, O vendedor nao quer mostrar a matricula, e golpe? por favor",FRAUDE_GOLPES
+preciso saber: como checar se o imovel possui escritura pode explicar,ESCRITURA_REGISTRO
+Bom dia! Quais taxas de cartorio vou pagar? me explica,IMPOSTOS_TAXAS
+"Boa tarde, Posso usar FGTS de outra pessoa?",FGTS_SUBSIDIOS
+"boa tarde, casa sem escritura posso comprar",ESCRITURA_REGISTRO
+"por favor, preciso de advogado para comprar em leilao",LEILAO
+"Boa tarde, Preciso reconhecer firma no contrato?",CONTRATO
+"oi, o que e venda direta de imovel retomado pelo banco me explica",LEILAO
+Preciso registrar a escritura no cartorio de imoveis?,ESCRITURA_REGISTRO
+"Por favor, Posso ser punido se o corretor falsificou meus documentos? por favor",FRAUDE_GOLPES
+"boa tarde, preciso de advogado para fazer a escritura obrigado",ESCRITURA_REGISTRO
+"Preciso saber: Corretor disse para declarar uma renda maior, tem problema? por favor",FRAUDE_GOLPES
+"O imovel esta em nome de pessoa falecida, posso comprar?",IMOVEL_USADO
+O corretor colocou minha esposa como dependente para aumentar a renda,FRAUDE_GOLPES
+"bom dia! meu nome esta sujo, consigo financiar",FINANCIAMENTO
+Minha duvida: Alguem pode usar meu nome para financiar imovel? por favor,FRAUDE_GOLPES
+"Boa tarde, Posso usar o FGTS para comprar a casa?",FGTS_SUBSIDIOS
+Bom dia! Como funciona o Minha Casa Minha Vida? pode explicar?,FGTS_SUBSIDIOS
+O imovel so e meu depois do registro?,ESCRITURA_REGISTRO
+"Ola, Como esta o tempo hoje?",FORA_DO_ESCOPO
+"O corretor alterou meu imposto de renda para conseguir o financiamento, o que acontece?",FRAUDE_GOLPES
+"Ola, Como emagrecer rapido? obrigado",FORA_DO_ESCOPO
+"O contrato diz multa por atraso, esta certo?",CONTRATO
+Onde tiro a certidao atualizada da matricula? obrigado,MATRICULA_ONUS
+como dar entrada no registro de imoveis obrigado,ESCRITURA_REGISTRO
+"Boa tarde, O que e taxa de juros efetiva no financiamento?",FINANCIAMENTO
+O FGTS paga parcela do financiamento?,FGTS_SUBSIDIOS
+preciso saber: como consultar meu saldo do fgts para comprar casa,FGTS_SUBSIDIOS
+Minha duvida: Inflaram a minha renda no pedido de financiamento por favor,FRAUDE_GOLPES
+"Ola, Pediram um sinal por PIX antes de ver o imovel, e seguro?",FRAUDE_GOLPES
+"por favor, posso desistir da compra depois de assinar obrigado",CONTRATO
+Qual a diferenca entre escritura e registro?,ESCRITURA_REGISTRO
+Alguem pode usar meu nome para financiar imovel?,FRAUDE_GOLPES
+Pode me ajudar? Preciso declarar o imovel no imposto de renda?,IMPOSTOS_TAXAS
+preciso saber: preciso declarar o imovel no imposto de renda por favor,IMPOSTOS_TAXAS
+"boa tarde, da para visitar o imovel antes do leilao obrigado",LEILAO
+Se eu desistir perco o sinal? por favor,CONTRATO
+"Boa tarde, Como saber se o dono do imovel tem processos? obrigado",MATRICULA_ONUS
+Como pagar o ITBI na prefeitura?,IMPOSTOS_TAXAS
+"quem paga o itbi, comprador ou vendedor pode explicar",IMPOSTOS_TAXAS
+bom dia! quando vence o itbi,IMPOSTOS_TAXAS
+Minha duvida: Como funciona a avaliacao do imovel pelo banco? obrigado,FINANCIAMENTO
+preciso saber: como checar se o imovel possui escritura obrigado,ESCRITURA_REGISTRO
+Como funciona o contrato de compra e venda?,CONTRATO
+"Por favor, Como saber se o dono do imovel tem processos? me explica",MATRICULA_ONUS
+Minha duvida: Qual a diferenca entre primeiro e segundo leilao?,LEILAO
+O que e promessa de compra e venda?,CONTRATO
+Como saber se o dono do imovel tem processos?,MATRICULA_ONUS
+Pode me ajudar? Contrato de gaveta e seguro? por favor,CONTRATO
+Como checar a area do terreno e da casa?,IMOVEL_USADO
+"Por favor, Quem paga o ITBI, comprador ou vendedor? pode explicar?",IMPOSTOS_TAXAS
+"Oi, Posso financiar imovel de leilao? obrigado",LEILAO
+preciso registrar a escritura no cartorio de imoveis,ESCRITURA_REGISTRO
+"Oi, Posso comprar imovel com penhora? obrigado",MATRICULA_ONUS
+Posso usar o FGTS na entrada?,FGTS_SUBSIDIOS
+Bom dia! Posso desistir da arrematacao? me explica,LEILAO
+Preciso saber: Como investir em acoes?,FORA_DO_ESCOPO
+a casa esta no nome de quem vendeu pode explicar,MATRICULA_ONUS
+Da para visitar o imovel antes do leilao? obrigado,LEILAO
+"por favor, pago imposto de renda quando vendo imovel me explica",IMPOSTOS_TAXAS
+Bom dia! Preciso de advogado para comprar em leilao?,LEILAO
+O que e distrato?,CONTRATO
+Tem comissao do leiloeiro?,LEILAO
+Da para visitar o imovel antes do leilao?,LEILAO
+O que e a Faixa 1 do programa de moradia? me explica,FGTS_SUBSIDIOS
+"pode me ajudar ja tive imovel, ainda posso usar o fgts",FGTS_SUBSIDIOS
+Quais impostos pago ao comprar um imovel? obrigado,IMPOSTOS_TAXAS
+Preciso saber: Qual a diferenca entre escritura e registro?,ESCRITURA_REGISTRO
+"oi, quanto tempo demora para registrar o imovel",ESCRITURA_REGISTRO
+"Por favor, Posso usar FGTS de outra pessoa? obrigado",FGTS_SUBSIDIOS
+Posso ser punido se o corretor falsificou meus documentos?,FRAUDE_GOLPES
+Minha duvida: O que e simulacao financeira? obrigado,FRAUDE_GOLPES
+"Oi, Posso assinar o contrato sem advogado? obrigado",CONTRATO
+"Boa tarde, Tem comissao do leiloeiro? por favor",LEILAO
+pode me ajudar qual a diferenca entre escritura e registro,ESCRITURA_REGISTRO
+"se tiver gente morando no imovel do leilao, e agora",LEILAO
+Preciso saber: Quanto custa fazer a escritura? pode explicar?,ESCRITURA_REGISTRO
+Preciso saber: Quem tem direito a subsidio para comprar imovel?,FGTS_SUBSIDIOS
+"Ola, O corretor alterou meu imposto de renda para conseguir o financiamento, o que acontece? por favor",FRAUDE_GOLPES
+"bom dia! o corretor mudou meu irrf para o banco aprovar, e agora me explica",FRAUDE_GOLPES
+minha duvida: como confirmar se o vendedor e o dono mesmo,IMOVEL_USADO
+"Boa tarde, Como confirmar se o vendedor e o dono mesmo?",IMOVEL_USADO
+Minha duvida: Qual o melhor celular para comprar?,FORA_DO_ESCOPO
+Minha duvida: Tenho que pagar IPTU atrasado do vendedor? me explica,IMPOSTOS_TAXAS
+"oi, como pagar o itbi na prefeitura por favor",IMPOSTOS_TAXAS
+Bom dia! Qual a diferenca entre primeiro e segundo leilao?,LEILAO
+"boa tarde, quais os riscos do leilao de imoveis obrigado",LEILAO
+Qual a diferenca entre primeiro e segundo leilao? por favor,LEILAO
+"Por favor, Quando vence o ITBI? pode explicar?",IMPOSTOS_TAXAS
+"ola, preciso de advogado para fazer a escritura",ESCRITURA_REGISTRO
+Pode me ajudar? Quanto tempo de FGTS preciso ter? pode explicar?,FGTS_SUBSIDIOS
+Quanto custa o ITBI?,IMPOSTOS_TAXAS
+"por favor, qual a capital da franca obrigado",FORA_DO_ESCOPO
+Como esta o tempo hoje?,FORA_DO_ESCOPO
+"boa tarde, qual a renda maxima para o minha casa minha vida",FGTS_SUBSIDIOS
+Como funciona o financiamento habitacional?,FINANCIAMENTO
+preciso saber: posso ser punido se o corretor falsificou meus documentos,FRAUDE_GOLPES
+minha duvida: como esta o tempo hoje pode explicar,FORA_DO_ESCOPO
+"boa tarde, preciso pedir certidao negativa do condominio me explica",IMOVEL_USADO
+"Por favor, O boleto do imovel veio com outro nome, e golpe? pode explicar?",FRAUDE_GOLPES
+Quais os riscos do leilao de imoveis?,LEILAO
+bom dia! quero alugar um apartamento pode explicar,FORA_DO_ESCOPO
+"Oi, Tem ajuda do governo para primeira casa? me explica",FGTS_SUBSIDIOS
+"por favor, como consultar meu saldo do fgts para comprar casa por favor",FGTS_SUBSIDIOS
+"Oi, A casa esta no nome de quem vendeu? obrigado",MATRICULA_ONUS
+Quanto de entrada preciso dar? pode explicar?,FINANCIAMENTO
+Me conta uma piada,FORA_DO_ESCOPO
+"Oi, A parcela pode passar de 30% da renda? pode explicar?",FINANCIAMENTO
+"Ja tive imovel, ainda posso usar o FGTS?",FGTS_SUBSIDIOS
+bom dia! o que e alienacao fiduciaria na matricula,MATRICULA_ONUS
+preciso saber: como emagrecer rapido obrigado,FORA_DO_ESCOPO
+como emagrecer rapido pode explicar,FORA_DO_ESCOPO
+bom dia! posso desistir da compra depois de assinar,CONTRATO
+"Por favor, Qual o prazo para entregar o imovel no contrato? obrigado",CONTRATO
+"Ola, Vale a pena fazer vistoria antes da compra? me explica",IMOVEL_USADO
+"Por favor, O que conferir antes de comprar apartamento usado? pode explicar?",IMOVEL_USADO
+Pode me ajudar? Preciso reconhecer firma no contrato?,CONTRATO
+Bom dia! Tenho que pagar IPTU atrasado do vendedor? pode explicar?,IMPOSTOS_TAXAS
+Pode me ajudar? O que e simulacao financeira?,FRAUDE_GOLPES
+bom dia! pago imposto de renda quando vendo imovel,IMPOSTOS_TAXAS
+minha duvida: a casa esta no nome de quem vendeu,MATRICULA_ONUS
+Bom dia! O que e o sinal ou arras? obrigado,CONTRATO
+quanto custa o itbi,IMPOSTOS_TAXAS
+"O corretor mudou meu IRRF para o banco aprovar, e agora?",FRAUDE_GOLPES
+Quais documentos levo ao cartorio para escriturar?,ESCRITURA_REGISTRO
+Minha duvida: Como investir em acoes? pode explicar?,FORA_DO_ESCOPO
+Quais taxas de cartorio vou pagar?,IMPOSTOS_TAXAS
+Qual o melhor celular para comprar?,FORA_DO_ESCOPO
+preciso saber: o que e ganho de capital,IMPOSTOS_TAXAS
+"Boa tarde, Quero alugar um apartamento pode explicar?",FORA_DO_ESCOPO
+"Boa tarde, Posso quitar o financiamento antes do prazo? por favor",FINANCIAMENTO
+preciso declarar o imovel no imposto de renda,IMPOSTOS_TAXAS
+Minha duvida: Como pagar o ITBI na prefeitura? obrigado,IMPOSTOS_TAXAS
+"Oi, A casa esta no nome de quem vendeu? pode explicar?",MATRICULA_ONUS
+Preciso saber: Como saber se o condominio tem dividas?,IMOVEL_USADO
+"Por favor, Como funciona comprar imovel em leilao?",LEILAO
+"ola, como sei se o apartamento tem alguma pendencia na justica obrigado",MATRICULA_ONUS
+"Ola, Quais sinais de fraude em financiamento? pode explicar?",FRAUDE_GOLPES
+"ola, como tirar carteira de motorista",FORA_DO_ESCOPO
+"Ola, Posso comprar casa de heranca ainda em inventario? obrigado",IMOVEL_USADO
+O que e simulacao financeira?,FRAUDE_GOLPES
+"Por favor, Corretor pediu para colocar minha esposa como dependente no IR, posso?",FRAUDE_GOLPES
+Pode me ajudar? Como checar se o imovel possui escritura? pode explicar?,ESCRITURA_REGISTRO
+"por favor, quem paga o itbi, comprador ou vendedor",IMPOSTOS_TAXAS
+"Pode me ajudar? Corretor pediu para colocar minha esposa como dependente no IR, posso? me explica",FRAUDE_GOLPES
+Casa sem escritura posso comprar?,ESCRITURA_REGISTRO
+"Boa tarde, O contrato diz multa por atraso, esta certo? obrigado",CONTRATO
+Como saber se o leilao e confiavel?,LEILAO
+"oi, ja assinei documento com renda falsa, o que fazer",FRAUDE_GOLPES
+"Ola, Posso usar a renda do meu marido para financiar?",FINANCIAMENTO
+Minha duvida: Pago imposto de renda quando vendo imovel? obrigado,IMPOSTOS_TAXAS
+"ola, qual a receita de bolo de cenoura me explica",FORA_DO_ESCOPO
+"boa tarde, como descubro se um imovel tem dividas",MATRICULA_ONUS
+minha duvida: tem comissao do leiloeiro pode explicar,LEILAO
+"Boa tarde, Como pedir o subsidio do governo?",FGTS_SUBSIDIOS
+o que e promessa de compra e venda,CONTRATO
+"Por favor, Posso usar a renda do meu marido para financiar?",FINANCIAMENTO
+preco muito abaixo do mercado e golpe por favor,FRAUDE_GOLPES
+como checar a area do terreno e da casa,IMOVEL_USADO
+Como tirar carteira de motorista?,FORA_DO_ESCOPO
+"ola, quero saber se o imovel esta penhorado obrigado",MATRICULA_ONUS
+"Pediram um sinal por PIX antes de ver o imovel, e seguro?",FRAUDE_GOLPES
+Minha duvida: Inflaram a minha renda no pedido de financiamento me explica,FRAUDE_GOLPES
+Que problemas aparecem em imovel antigo?,IMOVEL_USADO
+Preciso saber: Me ajuda com meu dever de casa de matematica me explica,FORA_DO_ESCOPO
+minha duvida: que certidoes preciso pedir sobre o imovel,MATRICULA_ONUS
+"Ola, Quais documentos o vendedor precisa me entregar? obrigado",IMOVEL_USADO
+pode me ajudar quem ganhou o jogo ontem me explica,FORA_DO_ESCOPO
+Qual o melhor celular para comprar? obrigado,FORA_DO_ESCOPO
+Bom dia! Como saber se o leilao e confiavel?,LEILAO
+preciso saber: posso usar a renda do meu marido para financiar,FINANCIAMENTO
+Pode me ajudar? Como ver quem e o verdadeiro dono do imovel? pode explicar?,MATRICULA_ONUS
+Preciso de advogado para fazer a escritura?,ESCRITURA_REGISTRO
+Preciso saber: O FGTS vale para imovel usado?,FGTS_SUBSIDIOS
+Posso usar a renda do meu marido para financiar?,FINANCIAMENTO
+Como pedir o subsidio do governo?,FGTS_SUBSIDIOS
+"boa tarde, escritura e registro sao a mesma coisa por favor",ESCRITURA_REGISTRO
+"bom dia! se tiver gente morando no imovel do leilao, e agora",LEILAO
+"ola, e crime aumentar a renda para aprovar financiamento por favor",FRAUDE_GOLPES
+Quero financiar um carro,FORA_DO_ESCOPO

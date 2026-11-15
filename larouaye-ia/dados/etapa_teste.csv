@@ -1,0 +1,19 @@
+texto,rotulo
+Estou vendo apartamentos para comprar,PESQUISA_IMOVEL
+Como escolher uma casa para o primeiro imovel?,PESQUISA_IMOVEL
+Quero visitar um imovel no fim de semana,PESQUISA_IMOVEL
+Quero conferir a matricula antes de fechar negocio,ANALISE_DOCUMENTAL
+Preciso das certidoes do vendedor,ANALISE_DOCUMENTAL
+Como verificar se ha dividas na casa que escolhi?,ANALISE_DOCUMENTAL
+O vendedor me passou o contrato de compra e venda,NEGOCIACAO_CONTRATO
+Posso desistir depois de dar o sinal?,NEGOCIACAO_CONTRATO
+Estou negociando o preco e as clausulas,NEGOCIACAO_CONTRATO
+Preciso marcar a escritura no cartorio de notas,ESCRITURA
+Que documentos levo para lavrar a escritura?,ESCRITURA
+Qual o valor para lavrar a escritura no tabelionato?,ESCRITURA
+Como pago o ITBI da compra?,ITBI_TRIBUTOS
+A guia do imposto de transmissao esta cara,ITBI_TRIBUTOS
+Tenho IPTU atrasado e preciso regularizar,ITBI_TRIBUTOS
+Quero registrar a escritura em cartorio,REGISTRO_IMOVEL
+O cartorio devolveu meu pedido de registro,REGISTRO_IMOVEL
+Quanto demora o registro do imovel?,REGISTRO_IMOVEL

@@ -1,0 +1,41 @@
+texto,rotulo
+Preciso ver se o apartamento tem alguma divida no cartorio,MATRICULA_ONUS
+Como e a certidao de matricula atualizada?,MATRICULA_ONUS
+O imovel pode estar com penhora ou hipoteca?,MATRICULA_ONUS
+Como consultar os onus que pesam sobre a casa?,MATRICULA_ONUS
+A casa tem escritura registrada em cartorio?,ESCRITURA_REGISTRO
+Qual o custo para escriturar e registrar?,ESCRITURA_REGISTRO
+Quem so tem contrato de gaveta e dono do imovel?,ESCRITURA_REGISTRO
+Como funciona o registro no cartorio de imoveis?,ESCRITURA_REGISTRO
+Quais cuidados antes de assinar a compra e venda?,CONTRATO
+"Se eu der sinal e desistir, perco o dinheiro?",CONTRATO
+Como e uma promessa de compra e venda?,CONTRATO
+Quais pontos olhar no contrato do corretor?,CONTRATO
+Como o banco financia a compra da casa?,FINANCIAMENTO
+Quanto precisa dar de entrada no financiamento?,FINANCIAMENTO
+Qual a parcela maxima em relacao ao salario?,FINANCIAMENTO
+Que papeis o banco pede para financiar?,FINANCIAMENTO
+Como usar o saldo do FGTS na compra do imovel?,FGTS_SUBSIDIOS
+Quem pode participar do Minha Casa Minha Vida?,FGTS_SUBSIDIOS
+Existe subsidio do governo para quem compra a primeira casa?,FGTS_SUBSIDIOS
+O FGTS pode entrar como entrada?,FGTS_SUBSIDIOS
+Que impostos incidem na compra de um imovel?,IMPOSTOS_TAXAS
+Quem arca com o ITBI?,IMPOSTOS_TAXAS
+Preciso pagar imposto se vender minha casa com lucro?,IMPOSTOS_TAXAS
+Quanto se paga de taxas no cartorio?,IMPOSTOS_TAXAS
+E seguro arrematar imovel em leilao?,LEILAO
+Quais cuidados antes de dar lance em leilao de imovel?,LEILAO
+Como funciona a compra de casa retomada pelo banco?,LEILAO
+Imovel de leilao vem com dividas?,LEILAO
+Que documentos o dono do apartamento usado deve apresentar?,IMOVEL_USADO
+Como conferir um imovel antigo antes de comprar?,IMOVEL_USADO
+A esposa do vendedor precisa assinar a venda?,IMOVEL_USADO
+O condominio pode ter debitos que passam para mim?,IMOVEL_USADO
+"O corretor mexeu na minha declaracao de renda para aprovar o credito, isso e crime?",FRAUDE_GOLPES
+Como perceber um golpe na venda de imovel?,FRAUDE_GOLPES
+Pediram PIX adiantado de um imovel que nem visitei,FRAUDE_GOLPES
+Informar renda falsa no financiamento tem consequencia?,FRAUDE_GOLPES
+Qual o melhor time de futebol do Brasil?,FORA_DO_ESCOPO
+Como fazer um bolo de chocolate?,FORA_DO_ESCOPO
+Quero comprar um celular novo,FORA_DO_ESCOPO
+Quanto custa uma passagem de aviao?,FORA_DO_ESCOPO

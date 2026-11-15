@@ -1,0 +1,11 @@
+flask>=3.0
+flask-cors>=4.0
+scikit-learn>=1.4
+joblib>=1.3
+pandas>=2.0
+requests>=2.31
+gunicorn>=22.0
+# Opcionais
+# gTTS>=2.5        # resposta em audio no Telegram (TELEGRAM_VOZ=1)
+# jupyter, nbconvert, matplotlib   # para abrir/reexecutar os notebooks
+# pytest           # para rodar os testes

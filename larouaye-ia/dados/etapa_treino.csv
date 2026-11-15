@@ -1,0 +1,362 @@
+texto,rotulo
+como emitir a guia do itbi obrigado,ITBI_TRIBUTOS
+Preciso saber: Quanto custa a escritura publica? obrigado,ESCRITURA
+"ola, quanto custa o registro pode explicar",REGISTRO_IMOVEL
+Minha duvida: Como saber se o preco do imovel esta justo?,PESQUISA_IMOVEL
+quanto dar de sinal,NEGOCIACAO_CONTRATO
+Como escolher um bairro para morar?,PESQUISA_IMOVEL
+"por favor, estou escolhendo o cartorio de notas",ESCRITURA
+Quero emitir a guia de imposto da compra,ITBI_TRIBUTOS
+Como saber se o preco do imovel esta justo?,PESQUISA_IMOVEL
+Como pedir a escritura do imovel?,ESCRITURA
+"Ola, Vamos fechar negocio amanha",NEGOCIACAO_CONTRATO
+"Ola, Preciso de procuracao para escriturar?",ESCRITURA
+"ja registrei, o que fazer agora me explica",REGISTRO_IMOVEL
+"Oi, Quero simular um financiamento para saber quanto posso pagar me explica",PESQUISA_IMOVEL
+"oi, o imovel ja esta no meu nome por favor",REGISTRO_IMOVEL
+"ola, quero saber se posso desistir do negocio pode explicar",NEGOCIACAO_CONTRATO
+preciso saber: falta registrar o financiamento pode explicar,REGISTRO_IMOVEL
+"Oi, Quero marcar a escritura me explica",ESCRITURA
+Preciso saber: Como dar entrada no registro de imoveis?,REGISTRO_IMOVEL
+"Por favor, Quem paga o imposto, eu ou o vendedor?",ITBI_TRIBUTOS
+"boa tarde, estou procurando apartamento para comprar pode explicar",PESQUISA_IMOVEL
+Vou ao cartorio de notas amanha,ESCRITURA
+Ja escolhi o imovel e quero conferir os documentos,ANALISE_DOCUMENTAL
+Preciso saber: Falta registrar o financiamento,REGISTRO_IMOVEL
+Minha duvida: Quero saber o que olhar na visita ao imovel me explica,PESQUISA_IMOVEL
+Quero levar a escritura ao registro de imoveis,REGISTRO_IMOVEL
+"boa tarde, ainda nao escolhi o imovel pode explicar",PESQUISA_IMOVEL
+como ler a matricula que recebi por favor,ANALISE_DOCUMENTAL
+Minha duvida: Quero emitir a guia de imposto da compra,ITBI_TRIBUTOS
+"Oi, Preciso averbar algo depois do registro? me explica",REGISTRO_IMOVEL
+Minha duvida: Preciso conferir a situacao do imovel por favor,ANALISE_DOCUMENTAL
+"boa tarde, o vendedor me entregou uns papeis, como conferir por favor",ANALISE_DOCUMENTAL
+pode me ajudar quero simular um financiamento para saber quanto posso pagar por favor,PESQUISA_IMOVEL
+"boa tarde, quero negociar o desconto e as clausulas obrigado",NEGOCIACAO_CONTRATO
+Quanto tempo o cartorio leva para registrar?,REGISTRO_IMOVEL
+Pode me ajudar? A prefeitura calculou o ITBI sobre o valor errado obrigado,ITBI_TRIBUTOS
+Como funciona a lavratura da escritura?,ESCRITURA
+"Por favor, Qual o prazo do registro depois da escritura?",REGISTRO_IMOVEL
+o banco aprovou meu financiamento e agora vou assinar o contrato,NEGOCIACAO_CONTRATO
+bom dia! preciso de ajuda para entender o contrato por favor,NEGOCIACAO_CONTRATO
+"Boa tarde, Antes de pagar sinal quero conferir tudo por favor",ANALISE_DOCUMENTAL
+"Boa tarde, Vou ver uma casa no sabado pode explicar?",PESQUISA_IMOVEL
+"Por favor, Estou com IPTU atrasado do imovel",ITBI_TRIBUTOS
+"Minha duvida: O vendedor me entregou uns papeis, como conferir? me explica",ANALISE_DOCUMENTAL
+Vou assinar a promessa de compra e venda me explica,NEGOCIACAO_CONTRATO
+Ja paguei tudo e falta a escritura,ESCRITURA
+"por favor, o corretor disse para assinar hoje",NEGOCIACAO_CONTRATO
+"Boa tarde, Quero saber se posso desistir do negocio obrigado",NEGOCIACAO_CONTRATO
+pode me ajudar como emitir a guia do itbi,ITBI_TRIBUTOS
+Ja assinei o contrato e preciso fazer a escritura,ESCRITURA
+"Oi, Quero emitir a guia de imposto da compra pode explicar?",ITBI_TRIBUTOS
+"oi, peguei a matricula e nao entendi nada",ANALISE_DOCUMENTAL
+preciso saber: comprador e vendedor precisam ir juntos ao cartorio me explica,ESCRITURA
+"Por favor, O imovel ja esta no meu nome?",REGISTRO_IMOVEL
+Quero marcar a escritura,ESCRITURA
+Quero simular um financiamento para saber quanto posso pagar,PESQUISA_IMOVEL
+Pode me ajudar? Quero simular um financiamento para saber quanto posso pagar obrigado,PESQUISA_IMOVEL
+Falta algum documento do vendedor?,ANALISE_DOCUMENTAL
+minha duvida: preciso do comprovante de itbi para o cartorio,ITBI_TRIBUTOS
+"oi, ja paguei tudo e falta a escritura",ESCRITURA
+"O vendedor me entregou uns papeis, como conferir?",ANALISE_DOCUMENTAL
+Preciso saber: Antes de pagar sinal quero conferir tudo me explica,ANALISE_DOCUMENTAL
+"Por favor, Estou checando se o dono e o dono mesmo por favor",ANALISE_DOCUMENTAL
+Preciso do comprovante de ITBI para o cartorio,ITBI_TRIBUTOS
+"Pode me ajudar? Ja registrei, o que fazer agora? me explica",REGISTRO_IMOVEL
+Quero saber se posso desistir do negocio me explica,NEGOCIACAO_CONTRATO
+"Oi, A escritura pode ser feita por instrumento particular?",ESCRITURA
+como pedir desconto no itbi por favor,ITBI_TRIBUTOS
+Pode me ajudar? Quero comecar a ver imoveis na minha cidade,PESQUISA_IMOVEL
+Bom dia! Vou ver uma casa no sabado,PESQUISA_IMOVEL
+bom dia! quero saber se posso desistir do negocio por favor,NEGOCIACAO_CONTRATO
+Pode me ajudar? Vi um anuncio e quero visitar o imovel,PESQUISA_IMOVEL
+como escolher um bairro para morar por favor,PESQUISA_IMOVEL
+Quais impostos faltam pagar?,ITBI_TRIBUTOS
+"Boa tarde, Como pedir a matricula atualizada com meu nome? por favor",REGISTRO_IMOVEL
+Como pedir a escritura do imovel? me explica,ESCRITURA
+"ola, quais documentos levar ao tabelionato por favor",ESCRITURA
+Minha duvida: Quero marcar a escritura por favor,ESCRITURA
+o imovel ja esta no meu nome,REGISTRO_IMOVEL
+Quero a certidao de onus do imovel,ANALISE_DOCUMENTAL
+pode me ajudar quero comecar a ver imoveis na minha cidade por favor,PESQUISA_IMOVEL
+preciso saber: vamos fechar negocio amanha por favor,NEGOCIACAO_CONTRATO
+"Boa tarde, Quem paga o imposto, eu ou o vendedor? pode explicar?",ITBI_TRIBUTOS
+"Por favor, Quanto dar de sinal? me explica",NEGOCIACAO_CONTRATO
+Como dar entrada no registro de imoveis?,REGISTRO_IMOVEL
+"Ola, O corretor quer que eu pague o sinal obrigado",NEGOCIACAO_CONTRATO
+Quanto e o ITBI na minha cidade?,ITBI_TRIBUTOS
+Bom dia! Comprador e vendedor precisam ir juntos ao cartorio? pode explicar?,ESCRITURA
+"por favor, preciso conferir a situacao do imovel",ANALISE_DOCUMENTAL
+Bom dia! Preciso de procuracao para escriturar? por favor,ESCRITURA
+Quero ver se tem penhora,ANALISE_DOCUMENTAL
+"Por favor, O corretor disse para assinar hoje",NEGOCIACAO_CONTRATO
+Preciso pedir a matricula e certidoes obrigado,ANALISE_DOCUMENTAL
+"Por favor, Vou ao cartorio de notas amanha",ESCRITURA
+"Por favor, Quero marcar a escritura",ESCRITURA
+Pode me ajudar? Quanto de imovel posso pagar pelo meu salario?,PESQUISA_IMOVEL
+Peguei a matricula e nao entendi nada,ANALISE_DOCUMENTAL
+Bom dia! Quero levar a escritura ao registro de imoveis,REGISTRO_IMOVEL
+Pode me ajudar? Como escolher um bairro para morar? por favor,PESQUISA_IMOVEL
+quero saber o que olhar na visita ao imovel,PESQUISA_IMOVEL
+O corretor quer que eu pague o sinal,NEGOCIACAO_CONTRATO
+"Quem paga o imposto, eu ou o vendedor? pode explicar?",ITBI_TRIBUTOS
+Quais documentos levar ao tabelionato?,ESCRITURA
+Preciso averbar algo depois do registro?,REGISTRO_IMOVEL
+Quero ver se tem penhora obrigado,ANALISE_DOCUMENTAL
+Pode me ajudar? Vamos fechar negocio amanha por favor,NEGOCIACAO_CONTRATO
+"Boa tarde, Ja assinei o contrato e preciso fazer a escritura me explica",ESCRITURA
+Pode me ajudar? Quero ver se tem penhora por favor,ANALISE_DOCUMENTAL
+pode me ajudar falta algum documento do vendedor por favor,ANALISE_DOCUMENTAL
+bom dia! como pedir a matricula atualizada com meu nome,REGISTRO_IMOVEL
+"Ola, Quanto custa a escritura publica?",ESCRITURA
+minha duvida: ja combinei o preco com o vendedor obrigado,NEGOCIACAO_CONTRATO
+"Boa tarde, Como ler a matricula que recebi?",ANALISE_DOCUMENTAL
+Minha duvida: Tem multa se eu desistir depois de assinar?,NEGOCIACAO_CONTRATO
+preciso saber: recebi o contrato para assinar obrigado,NEGOCIACAO_CONTRATO
+Estou escolhendo o cartorio de notas,ESCRITURA
+"ola, preciso de ajuda para entender o contrato",NEGOCIACAO_CONTRATO
+Pode me ajudar? O banco aprovou meu financiamento e agora vou assinar o contrato obrigado,NEGOCIACAO_CONTRATO
+Como emitir a guia do ITBI?,ITBI_TRIBUTOS
+"Ola, O banco pediu a escritura",ESCRITURA
+Quero saber se o imovel tem dividas antes de fechar,ANALISE_DOCUMENTAL
+"ola, quanto e o itbi na minha cidade obrigado",ITBI_TRIBUTOS
+"Oi, O registro foi negado, e agora? por favor",REGISTRO_IMOVEL
+"ola, quanto custa o registro obrigado",REGISTRO_IMOVEL
+Quanto dar de sinal?,NEGOCIACAO_CONTRATO
+O banco pediu a escritura,ESCRITURA
+Minha duvida: Vamos fechar negocio amanha por favor,NEGOCIACAO_CONTRATO
+"boa tarde, o vendedor mandou a minuta do contrato pode explicar",NEGOCIACAO_CONTRATO
+preciso saber: a prefeitura calculou o itbi sobre o valor errado por favor,ITBI_TRIBUTOS
+Quero levar a escritura ao registro de imoveis pode explicar?,REGISTRO_IMOVEL
+"ola, o vendedor mandou a minuta do contrato",NEGOCIACAO_CONTRATO
+"Boa tarde, Qual o prazo do registro depois da escritura? obrigado",REGISTRO_IMOVEL
+O vendedor mandou a minuta do contrato,NEGOCIACAO_CONTRATO
+"boa tarde, como funciona o imposto sobre ganho de capital pode explicar",ITBI_TRIBUTOS
+"Oi, Ja tenho a escritura e quero registrar me explica",REGISTRO_IMOVEL
+Bom dia! Quero a certidao de onus do imovel obrigado,ANALISE_DOCUMENTAL
+Minha duvida: Preciso de procuracao para escriturar? me explica,ESCRITURA
+"Bom dia! O registro foi negado, e agora?",REGISTRO_IMOVEL
+Vamos fechar negocio amanha,NEGOCIACAO_CONTRATO
+Qual o prazo do registro depois da escritura?,REGISTRO_IMOVEL
+"Por favor, Preciso pedir a matricula e certidoes obrigado",ANALISE_DOCUMENTAL
+"por favor, quais documentos levar ao tabelionato",ESCRITURA
+bom dia! preciso de ajuda para entender o contrato,NEGOCIACAO_CONTRATO
+"Boa tarde, Ja tenho a escritura e quero registrar pode explicar?",REGISTRO_IMOVEL
+"Ola, Preciso conferir a situacao do imovel",ANALISE_DOCUMENTAL
+"oi, preciso de ajuda para entender o contrato me explica",NEGOCIACAO_CONTRATO
+"Ola, Tem multa se eu desistir depois de assinar? por favor",NEGOCIACAO_CONTRATO
+Minha duvida: Estou escolhendo o cartorio de notas,ESCRITURA
+preciso saber: antes de pagar sinal quero conferir tudo por favor,ANALISE_DOCUMENTAL
+"Ja registrei, o que fazer agora?",REGISTRO_IMOVEL
+o corretor quer que eu pague o sinal me explica,NEGOCIACAO_CONTRATO
+Vi um anuncio e quero visitar o imovel,PESQUISA_IMOVEL
+O vendedor mandou a minuta do contrato obrigado,NEGOCIACAO_CONTRATO
+bom dia! estou comparando precos de apartamentos pode explicar,PESQUISA_IMOVEL
+"Por favor, Quero a certidao de onus do imovel pode explicar?",ANALISE_DOCUMENTAL
+Preciso pagar o ITBI antes da escritura,ITBI_TRIBUTOS
+Pode me ajudar? Falta algum documento do vendedor?,ANALISE_DOCUMENTAL
+Vou assinar a promessa de compra e venda obrigado,NEGOCIACAO_CONTRATO
+Bom dia! O corretor disse para assinar hoje,NEGOCIACAO_CONTRATO
+Pode me ajudar? Como funciona a lavratura da escritura? obrigado,ESCRITURA
+"Por favor, Estou comparando precos de apartamentos",PESQUISA_IMOVEL
+Pode me ajudar? Quero saber se o imovel tem dividas antes de fechar me explica,ANALISE_DOCUMENTAL
+"Oi, Falta registrar o financiamento por favor",REGISTRO_IMOVEL
+Bom dia! Quanto tempo o cartorio leva para registrar?,REGISTRO_IMOVEL
+Pode me ajudar? Quero emitir a guia de imposto da compra me explica,ITBI_TRIBUTOS
+Preciso saber: Ja paguei tudo e falta a escritura,ESCRITURA
+Preciso saber: Onde pago o imposto de transmissao? obrigado,ITBI_TRIBUTOS
+minha duvida: vou assinar a promessa de compra e venda por favor,NEGOCIACAO_CONTRATO
+"oi, tenho direito a isencao de imposto obrigado",ITBI_TRIBUTOS
+vi um anuncio e quero visitar o imovel por favor,PESQUISA_IMOVEL
+"por favor, quanto tempo o cartorio leva para registrar pode explicar",REGISTRO_IMOVEL
+Antes de pagar sinal quero conferir tudo,ANALISE_DOCUMENTAL
+"Oi, O banco aprovou meu financiamento e agora vou assinar o contrato por favor",NEGOCIACAO_CONTRATO
+"Oi, Quanto e o ITBI na minha cidade? pode explicar?",ITBI_TRIBUTOS
+preciso saber: quais impostos faltam pagar obrigado,ITBI_TRIBUTOS
+Comprador e vendedor precisam ir juntos ao cartorio?,ESCRITURA
+"Oi, Preciso averbar algo depois do registro?",REGISTRO_IMOVEL
+O imovel ja esta no meu nome? pode explicar?,REGISTRO_IMOVEL
+Pode me ajudar? Quero negociar o desconto e as clausulas obrigado,NEGOCIACAO_CONTRATO
+"O registro foi negado, e agora?",REGISTRO_IMOVEL
+"Ola, Quem paga o imposto, eu ou o vendedor? pode explicar?",ITBI_TRIBUTOS
+Quanto custa o registro?,REGISTRO_IMOVEL
+Preciso saber: Estou procurando apartamento para comprar me explica,PESQUISA_IMOVEL
+O imovel ja esta no meu nome?,REGISTRO_IMOVEL
+minha duvida: quanto custa a escritura publica me explica,ESCRITURA
+Minha duvida: A prefeitura calculou o ITBI sobre o valor errado,ITBI_TRIBUTOS
+"ola, como saber se o preco do imovel esta justo",PESQUISA_IMOVEL
+Recebi o contrato para assinar me explica,NEGOCIACAO_CONTRATO
+Pode me ajudar? Quero levar a escritura ao registro de imoveis,REGISTRO_IMOVEL
+preciso saber: recebi a nota devolutiva do cartorio,REGISTRO_IMOVEL
+"Oi, Quero a certidao de onus do imovel",ANALISE_DOCUMENTAL
+Preciso saber: Como emitir a guia do ITBI? obrigado,ITBI_TRIBUTOS
+Minha duvida: Quanto dar de sinal?,NEGOCIACAO_CONTRATO
+Bom dia! Como funciona o imposto sobre ganho de capital? obrigado,ITBI_TRIBUTOS
+Vou pedir certidao negativa do vendedor,ANALISE_DOCUMENTAL
+"Por favor, Tem multa se eu desistir depois de assinar? me explica",NEGOCIACAO_CONTRATO
+"minha duvida: o vendedor me entregou uns papeis, como conferir obrigado",ANALISE_DOCUMENTAL
+"Oi, Como saber se o preco do imovel esta justo? me explica",PESQUISA_IMOVEL
+bom dia! peguei a matricula e nao entendi nada,ANALISE_DOCUMENTAL
+"Ola, Estou procurando apartamento para comprar por favor",PESQUISA_IMOVEL
+"oi, estou com iptu atrasado do imovel obrigado",ITBI_TRIBUTOS
+"boa tarde, a escritura pode ser feita por instrumento particular obrigado",ESCRITURA
+"boa tarde, estou comparando precos de apartamentos obrigado",PESQUISA_IMOVEL
+"Quem paga o imposto, eu ou o vendedor?",ITBI_TRIBUTOS
+Como dar entrada no registro de imoveis? por favor,REGISTRO_IMOVEL
+bom dia! preciso averbar algo depois do registro,REGISTRO_IMOVEL
+quero saber se o imovel tem dividas antes de fechar,ANALISE_DOCUMENTAL
+Ja combinei o preco com o vendedor,NEGOCIACAO_CONTRATO
+"Por favor, Como escolher um bairro para morar? por favor",PESQUISA_IMOVEL
+"ola, falta algum documento do vendedor",ANALISE_DOCUMENTAL
+"boa tarde, como emitir a guia do itbi por favor",ITBI_TRIBUTOS
+Como pedir desconto no ITBI?,ITBI_TRIBUTOS
+"boa tarde, preciso pagar o itbi antes da escritura",ITBI_TRIBUTOS
+preciso saber: ja paguei tudo e falta a escritura pode explicar,ESCRITURA
+"por favor, preciso pagar o itbi antes da escritura por favor",ITBI_TRIBUTOS
+"Boa tarde, Quero comecar a ver imoveis na minha cidade me explica",PESQUISA_IMOVEL
+Quero saber se posso desistir do negocio,NEGOCIACAO_CONTRATO
+"Por favor, O corretor quer que eu pague o sinal obrigado",NEGOCIACAO_CONTRATO
+Como pedir a matricula atualizada com meu nome?,REGISTRO_IMOVEL
+"Boa tarde, Peguei a matricula e nao entendi nada por favor",ANALISE_DOCUMENTAL
+"Por favor, O registro foi negado, e agora?",REGISTRO_IMOVEL
+Estou comparando precos de apartamentos,PESQUISA_IMOVEL
+"por favor, como funciona a lavratura da escritura obrigado",ESCRITURA
+"ola, quero saber se o imovel tem dividas antes de fechar me explica",ANALISE_DOCUMENTAL
+Estou checando se o dono e o dono mesmo,ANALISE_DOCUMENTAL
+"Por favor, Como pedir desconto no ITBI?",ITBI_TRIBUTOS
+Como ler a matricula que recebi?,ANALISE_DOCUMENTAL
+Preciso pedir a matricula e certidoes,ANALISE_DOCUMENTAL
+"Boa tarde, Estou checando se o dono e o dono mesmo por favor",ANALISE_DOCUMENTAL
+"Boa tarde, Qual o prazo do registro depois da escritura?",REGISTRO_IMOVEL
+Como ler a matricula que recebi? pode explicar?,ANALISE_DOCUMENTAL
+Bom dia! Como dar entrada no registro de imoveis? me explica,REGISTRO_IMOVEL
+"Boa tarde, Como pedir desconto no ITBI?",ITBI_TRIBUTOS
+ja assinei o contrato e preciso fazer a escritura,ESCRITURA
+"Ola, Quais impostos faltam pagar?",ITBI_TRIBUTOS
+Minha duvida: Recebi a nota devolutiva do cartorio pode explicar?,REGISTRO_IMOVEL
+"por favor, quero negociar o desconto e as clausulas",NEGOCIACAO_CONTRATO
+Quero comecar a ver imoveis na minha cidade,PESQUISA_IMOVEL
+"por favor, quanto e o itbi na minha cidade obrigado",ITBI_TRIBUTOS
+Preciso saber: A escritura pode ser feita por instrumento particular?,ESCRITURA
+"por favor, vou ver uma casa no sabado por favor",PESQUISA_IMOVEL
+"oi, estou olhando sites de imoveis",PESQUISA_IMOVEL
+A escritura pode ser feita por instrumento particular?,ESCRITURA
+"Ola, Antes de pagar sinal quero conferir tudo",ANALISE_DOCUMENTAL
+Minha duvida: Peguei a matricula e nao entendi nada obrigado,ANALISE_DOCUMENTAL
+pode me ajudar ja combinei o preco com o vendedor,NEGOCIACAO_CONTRATO
+"Ola, Quanto e o ITBI na minha cidade? pode explicar?",ITBI_TRIBUTOS
+"boa tarde, ja escolhi o imovel e quero conferir os documentos pode explicar",ANALISE_DOCUMENTAL
+Preciso saber: Estou procurando apartamento para comprar pode explicar?,PESQUISA_IMOVEL
+Pode me ajudar? Estou escolhendo o cartorio de notas obrigado,ESCRITURA
+Onde pago o imposto de transmissao?,ITBI_TRIBUTOS
+"oi, quero comecar a ver imoveis na minha cidade",PESQUISA_IMOVEL
+Estou procurando apartamento para comprar,PESQUISA_IMOVEL
+Estou com IPTU atrasado do imovel,ITBI_TRIBUTOS
+minha duvida: vou ao cartorio de notas amanha,ESCRITURA
+Quero a certidao de onus do imovel obrigado,ANALISE_DOCUMENTAL
+"ola, como funciona o imposto sobre ganho de capital me explica",ITBI_TRIBUTOS
+"por favor, como saber se o preco do imovel esta justo",PESQUISA_IMOVEL
+Preciso saber: O corretor quer que eu pague o sinal pode explicar?,NEGOCIACAO_CONTRATO
+Preciso saber: Vou pedir certidao negativa do vendedor,ANALISE_DOCUMENTAL
+Preciso saber: Vou ao cartorio de notas amanha,ESCRITURA
+preciso saber: preciso do comprovante de itbi para o cartorio obrigado,ITBI_TRIBUTOS
+minha duvida: qual o prazo do registro depois da escritura me explica,REGISTRO_IMOVEL
+como funciona o imposto sobre ganho de capital obrigado,ITBI_TRIBUTOS
+Preciso averbar algo depois do registro? obrigado,REGISTRO_IMOVEL
+"Ola, Quanto custa o registro? por favor",REGISTRO_IMOVEL
+"ola, como pedir a escritura do imovel",ESCRITURA
+Como pedir desconto no ITBI? por favor,ITBI_TRIBUTOS
+"Por favor, Estou olhando sites de imoveis obrigado",PESQUISA_IMOVEL
+Bom dia! Como pedir a matricula atualizada com meu nome? me explica,REGISTRO_IMOVEL
+"ola, quanto de imovel posso pagar pelo meu salario",PESQUISA_IMOVEL
+A prefeitura calculou o ITBI sobre o valor errado,ITBI_TRIBUTOS
+"oi, quero negociar o desconto e as clausulas pode explicar",NEGOCIACAO_CONTRATO
+Bom dia! Estou escolhendo o cartorio de notas,ESCRITURA
+O banco aprovou meu financiamento e agora vou assinar o contrato obrigado,NEGOCIACAO_CONTRATO
+Como escolher um bairro para morar? obrigado,PESQUISA_IMOVEL
+"por favor, ja escolhi o imovel e quero conferir os documentos",ANALISE_DOCUMENTAL
+Quero negociar o desconto e as clausulas,NEGOCIACAO_CONTRATO
+"Oi, Preciso pedir a matricula e certidoes pode explicar?",ANALISE_DOCUMENTAL
+Quanto custa a escritura publica?,ESCRITURA
+"ola, estou checando se o dono e o dono mesmo",ANALISE_DOCUMENTAL
+Vou assinar a promessa de compra e venda,NEGOCIACAO_CONTRATO
+bom dia! quais impostos faltam pagar,ITBI_TRIBUTOS
+"boa tarde, quais impostos faltam pagar pode explicar",ITBI_TRIBUTOS
+O corretor disse para assinar hoje,NEGOCIACAO_CONTRATO
+Bom dia! Tenho direito a isencao de imposto? obrigado,ITBI_TRIBUTOS
+Pode me ajudar? Estou checando se o dono e o dono mesmo,ANALISE_DOCUMENTAL
+Ainda estou visitando casas,PESQUISA_IMOVEL
+preciso saber: quero saber se o imovel tem dividas antes de fechar pode explicar,ANALISE_DOCUMENTAL
+Falta registrar o financiamento,REGISTRO_IMOVEL
+"Oi, Ja escolhi o imovel e quero conferir os documentos pode explicar?",ANALISE_DOCUMENTAL
+"boa tarde, quero ver se tem penhora",ANALISE_DOCUMENTAL
+"Boa tarde, Ja tenho a escritura e quero registrar",REGISTRO_IMOVEL
+Quanto de imovel posso pagar pelo meu salario?,PESQUISA_IMOVEL
+Preciso saber: Como pedir a escritura do imovel? me explica,ESCRITURA
+Pode me ajudar? Ja escolhi o imovel e quero conferir os documentos,ANALISE_DOCUMENTAL
+Preciso de procuracao para escriturar?,ESCRITURA
+Vou ver uma casa no sabado,PESQUISA_IMOVEL
+"Boa tarde, Recebi o contrato para assinar",NEGOCIACAO_CONTRATO
+"Por favor, Quanto de imovel posso pagar pelo meu salario? por favor",PESQUISA_IMOVEL
+Minha duvida: Quero levar a escritura ao registro de imoveis,REGISTRO_IMOVEL
+"Por favor, Preciso de procuracao para escriturar? por favor",ESCRITURA
+Quanto custa o registro? me explica,REGISTRO_IMOVEL
+Ainda nao escolhi o imovel,PESQUISA_IMOVEL
+"ja registrei, o que fazer agora",REGISTRO_IMOVEL
+Pode me ajudar? Comprador e vendedor precisam ir juntos ao cartorio?,ESCRITURA
+O banco aprovou meu financiamento e agora vou assinar o contrato,NEGOCIACAO_CONTRATO
+"Ola, Quanto tempo o cartorio leva para registrar? obrigado",REGISTRO_IMOVEL
+Vou pedir certidao negativa do vendedor me explica,ANALISE_DOCUMENTAL
+Pode me ajudar? Falta algum documento do vendedor? me explica,ANALISE_DOCUMENTAL
+Pode me ajudar? Estou com IPTU atrasado do imovel me explica,ITBI_TRIBUTOS
+Quero saber o que olhar na visita ao imovel,PESQUISA_IMOVEL
+minha duvida: quanto dar de sinal me explica,NEGOCIACAO_CONTRATO
+Recebi a nota devolutiva do cartorio,REGISTRO_IMOVEL
+Tem multa se eu desistir depois de assinar?,NEGOCIACAO_CONTRATO
+"Ola, Vou pedir certidao negativa do vendedor",ANALISE_DOCUMENTAL
+pode me ajudar quanto tempo o cartorio leva para registrar por favor,REGISTRO_IMOVEL
+"boa tarde, onde pago o imposto de transmissao obrigado",ITBI_TRIBUTOS
+"boa tarde, onde pago o imposto de transmissao",ITBI_TRIBUTOS
+quero saber o que olhar na visita ao imovel obrigado,PESQUISA_IMOVEL
+bom dia! quero marcar a escritura,ESCRITURA
+"por favor, o banco pediu a escritura pode explicar",ESCRITURA
+"Ola, Como funciona a lavratura da escritura? me explica",ESCRITURA
+bom dia! tenho direito a isencao de imposto,ITBI_TRIBUTOS
+"Ola, Recebi a nota devolutiva do cartorio me explica",REGISTRO_IMOVEL
+"Oi, Tem multa se eu desistir depois de assinar? pode explicar?",NEGOCIACAO_CONTRATO
+Minha duvida: Estou com IPTU atrasado do imovel,ITBI_TRIBUTOS
+"Por favor, Comprador e vendedor precisam ir juntos ao cartorio? me explica",ESCRITURA
+"por favor, quanto de imovel posso pagar pelo meu salario por favor",PESQUISA_IMOVEL
+bom dia! estou comparando precos de apartamentos me explica,PESQUISA_IMOVEL
+Preciso conferir a situacao do imovel,ANALISE_DOCUMENTAL
+"Boa tarde, Vou assinar a promessa de compra e venda",NEGOCIACAO_CONTRATO
+Pode me ajudar? Ainda estou visitando casas por favor,PESQUISA_IMOVEL
+Pode me ajudar? Ainda nao escolhi o imovel por favor,PESQUISA_IMOVEL
+Ja tenho a escritura e quero registrar,REGISTRO_IMOVEL
+"Ola, Ainda estou visitando casas",PESQUISA_IMOVEL
+"Boa tarde, Estou olhando sites de imoveis",PESQUISA_IMOVEL
+Minha duvida: Preciso pagar o ITBI antes da escritura,ITBI_TRIBUTOS
+Preciso saber: Quero ver se tem penhora pode explicar?,ANALISE_DOCUMENTAL
+Pode me ajudar? Preciso do comprovante de ITBI para o cartorio pode explicar?,ITBI_TRIBUTOS
+"Por favor, Vou ao cartorio de notas amanha pode explicar?",ESCRITURA
+O banco pediu a escritura obrigado,ESCRITURA
+Como funciona o imposto sobre ganho de capital?,ITBI_TRIBUTOS
+Pode me ajudar? Quais documentos levar ao tabelionato?,ESCRITURA
+"por favor, preciso pedir a matricula e certidoes",ANALISE_DOCUMENTAL
+Preciso de ajuda para entender o contrato,NEGOCIACAO_CONTRATO
+minha duvida: ja assinei o contrato e preciso fazer a escritura obrigado,ESCRITURA
+Minha duvida: Ainda estou visitando casas pode explicar?,PESQUISA_IMOVEL
+"Por favor, A prefeitura calculou o ITBI sobre o valor errado me explica",ITBI_TRIBUTOS
+Estou olhando sites de imoveis,PESQUISA_IMOVEL
+"por favor, ja tenho a escritura e quero registrar por favor",REGISTRO_IMOVEL
+"oi, o registro foi negado, e agora me explica",REGISTRO_IMOVEL
+"oi, tenho direito a isencao de imposto",ITBI_TRIBUTOS
+Recebi o contrato para assinar,NEGOCIACAO_CONTRATO
+"Ola, Quero simular um financiamento para saber quanto posso pagar me explica",PESQUISA_IMOVEL
+Minha duvida: Quais documentos levar ao tabelionato?,ESCRITURA
+Tenho direito a isencao de imposto?,ITBI_TRIBUTOS
+"Ola, Ja combinei o preco com o vendedor",NEGOCIACAO_CONTRATO
+"Por favor, Vi um anuncio e quero visitar o imovel",PESQUISA_IMOVEL
+"oi, como pedir a matricula atualizada com meu nome",REGISTRO_IMOVEL
+Minha duvida: O vendedor mandou a minuta do contrato pode explicar?,NEGOCIACAO_CONTRATO

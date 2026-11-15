@@ -1,0 +1,122 @@
+{
+  "intencao": {
+    "modelo": "intencao",
+    "amostras_treino": 690,
+    "amostras_teste": 40,
+    "acuracia_teste": 0.9,
+    "f1_macro_teste": 0.9016,
+    "por_classe": {
+      "CONTRATO": {
+        "precision": 0.8,
+        "recall": 1.0,
+        "f1-score": 0.889
+      },
+      "ESCRITURA_REGISTRO": {
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1-score": 0.857
+      },
+      "FGTS_SUBSIDIOS": {
+        "precision": 0.8,
+        "recall": 1.0,
+        "f1-score": 0.889
+      },
+      "FINANCIAMENTO": {
+        "precision": 0.6,
+        "recall": 0.75,
+        "f1-score": 0.667
+      },
+      "FORA_DO_ESCOPO": {
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1-score": 0.857
+      },
+      "FRAUDE_GOLPES": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0
+      },
+      "IMOVEL_USADO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0
+      },
+      "IMPOSTOS_TAXAS": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0
+      },
+      "LEILAO": {
+        "precision": 1.0,
+        "recall": 0.75,
+        "f1-score": 0.857
+      },
+      "MATRICULA_ONUS": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0
+      }
+    },
+    "classes": [
+      "CONTRATO",
+      "ESCRITURA_REGISTRO",
+      "FGTS_SUBSIDIOS",
+      "FINANCIAMENTO",
+      "FORA_DO_ESCOPO",
+      "FRAUDE_GOLPES",
+      "IMOVEL_USADO",
+      "IMPOSTOS_TAXAS",
+      "LEILAO",
+      "MATRICULA_ONUS"
+    ],
+    "treinado_em": "2026-11-14"
+  },
+  "etapa": {
+    "modelo": "etapa",
+    "amostras_treino": 361,
+    "amostras_teste": 18,
+    "acuracia_teste": 0.8889,
+    "f1_macro_teste": 0.8857,
+    "por_classe": {
+      "ANALISE_DOCUMENTAL": {
+        "precision": 1.0,
+        "recall": 0.667,
+        "f1-score": 0.8
+      },
+      "ESCRITURA": {
+        "precision": 1.0,
+        "recall": 0.667,
+        "f1-score": 0.8
+      },
+      "ITBI_TRIBUTOS": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0
+      },
+      "NEGOCIACAO_CONTRATO": {
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0
+      },
+      "PESQUISA_IMOVEL": {
+        "precision": 0.75,
+        "recall": 1.0,
+        "f1-score": 0.857
+      },
+      "REGISTRO_IMOVEL": {
+        "precision": 0.75,
+        "recall": 1.0,
+        "f1-score": 0.857
+      }
+    },
+    "classes": [
+      "ANALISE_DOCUMENTAL",
+      "ESCRITURA",
+      "ITBI_TRIBUTOS",
+      "NEGOCIACAO_CONTRATO",
+      "PESQUISA_IMOVEL",
+      "REGISTRO_IMOVEL"
+    ],
+    "treinado_em": "2026-11-14"
+  }
+}

@@ -34,7 +34,6 @@ CREATE TABLE tb_cidadao (
     dt_cadastro    TIMESTAMP     DEFAULT SYSTIMESTAMP NOT NULL,
     CONSTRAINT pk_cidadao PRIMARY KEY (cd_cidadao),
     CONSTRAINT uk_cidadao_email UNIQUE (ds_email),
-    CONSTRAINT uk_cidadao_canal_externo UNIQUE (ds_canal, cd_id_externo),
     CONSTRAINT ck_cidadao_canal CHECK (ds_canal IN ('WEB', 'TELEGRAM')),
     CONSTRAINT ck_cidadao_externo CHECK (ds_canal = 'WEB' OR cd_id_externo IS NOT NULL),
     CONSTRAINT ck_cidadao_nome CHECK (LENGTH(TRIM(nm_cidadao)) > 0),
@@ -42,6 +41,10 @@ CREATE TABLE tb_cidadao (
 );
 -- E-mail único sem diferenciar maiúsculas de minúsculas (o Java também compara com LOWER).
 CREATE UNIQUE INDEX ux_cidadao_email_lower ON tb_cidadao (LOWER(ds_email));
+-- Um chat externo (ex.: Telegram) só pode virar UM cidadão. Cidadãos WEB sem id externo podem ser vários.
+-- Por que não UNIQUE (ds_canal, cd_id_externo)? No Oracle, chave composta com UM valor preenchido ('WEB') e outro nulo
+-- conta como valor e colidiria. O CASE zera as duas colunas quando não há id externo, e o Oracle ignora chave toda nula.
+CREATE UNIQUE INDEX ux_cidadao_canal_externo ON tb_cidadao (CASE WHEN cd_id_externo IS NOT NULL THEN ds_canal END, cd_id_externo);
 COMMENT ON TABLE  tb_cidadao IS 'Cidadão que usa o LarOuAyê pelo app web ou pelo Telegram. Só dados mínimos.';
 COMMENT ON COLUMN tb_cidadao.ds_canal IS 'Canal de origem: WEB ou TELEGRAM';
 COMMENT ON COLUMN tb_cidadao.cd_id_externo IS 'Identificador no canal externo (chat_id do Telegram)';

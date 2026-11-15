@@ -1,0 +1,558 @@
+{
+  "aviso": "CONTEÚDO EM REVISÃO JURÍDICA: texto de apoio escrito para o projeto, ainda NÃO aprovado por advogado. Só mostre dataRevisao depois da aprovação (campo revisado).",
+  "categorias": [
+    {
+      "id": 1,
+      "codigo": "MATRICULA_ONUS",
+      "nome": "Matrícula e dívidas do imóvel"
+    },
+    {
+      "id": 2,
+      "codigo": "ESCRITURA_REGISTRO",
+      "nome": "Escritura e registro"
+    },
+    {
+      "id": 3,
+      "codigo": "CONTRATO",
+      "nome": "Contrato de compra e venda"
+    },
+    {
+      "id": 4,
+      "codigo": "FINANCIAMENTO",
+      "nome": "Financiamento"
+    },
+    {
+      "id": 5,
+      "codigo": "FGTS_SUBSIDIOS",
+      "nome": "FGTS e subsídios"
+    },
+    {
+      "id": 6,
+      "codigo": "IMPOSTOS_TAXAS",
+      "nome": "Impostos e taxas"
+    },
+    {
+      "id": 7,
+      "codigo": "LEILAO",
+      "nome": "Leilão"
+    },
+    {
+      "id": 8,
+      "codigo": "IMOVEL_USADO",
+      "nome": "Imóvel usado"
+    },
+    {
+      "id": 9,
+      "codigo": "FRAUDE_GOLPES",
+      "nome": "Fraudes e golpes"
+    }
+  ],
+  "orientacoes": [
+    {
+      "id": 1,
+      "categoria": "MATRICULA_ONUS",
+      "titulo": "Como saber se o imóvel tem dívidas ou restrições",
+      "perguntaRelacionada": "Como descubro se um imóvel tem dívidas?",
+      "conteudo": "Peça a matrícula atualizada do imóvel no Cartório de Registro de Imóveis da região onde ele fica. Nela aparecem o dono, as hipotecas, as penhoras e outras restrições. Peça também a certidão de ônus reais. Depois, confira as certidões do vendedor (ações na justiça e protestos) e se o IPTU e o condomínio estão em dia.",
+      "cuidados": [
+        "Use matrícula e certidões emitidas nos últimos dias, porque elas mudam com o tempo.",
+        "Pergunte ao cartório o prazo de validade que ele aceita.",
+        "Não pague sinal antes de ver a matrícula.",
+        "Se aparecer algo que você não entende, leve a um advogado ou à Defensoria."
+      ],
+      "baseLegal": [
+        {
+          "norma": "Lei 6.015/1973",
+          "referencia": "Lei de Registros Públicos",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm"
+        },
+        {
+          "norma": "Lei 13.097/2015",
+          "referencia": "art. 54 (publicidade da matrícula)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13097.htm"
+        },
+        {
+          "norma": "Código Civil (Lei 10.406/2002)",
+          "referencia": "",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+        }
+      ],
+      "proximaEtapa": "ANALISE_DOCUMENTAL",
+      "fontes": [
+        {
+          "titulo": "ONR: certidões de imóveis pela internet",
+          "url": "https://registradores.onr.org.br"
+        }
+      ],
+      "revisado": false,
+      "dataRevisao": null
+    },
+    {
+      "id": 2,
+      "categoria": "MATRICULA_ONUS",
+      "titulo": "O que é a matrícula do imóvel",
+      "perguntaRelacionada": "O que é a matrícula do imóvel?",
+      "conteudo": "A matrícula é a ficha do imóvel no Cartório de Registro de Imóveis. Ela conta a história dele: quem é o dono, se existe financiamento, hipoteca ou penhora e se houve mudanças na construção. Cada imóvel tem um número de matrícula só dele.",
+      "cuidados": [
+        "Procure o nome do vendedor como dono na matrícula.",
+        "Veja se existe alienação fiduciária: significa que o imóvel está como garantia de um financiamento.",
+        "Mudanças na construção precisam estar anotadas (averbadas) na matrícula."
+      ],
+      "baseLegal": [
+        {
+          "norma": "Lei 6.015/1973",
+          "referencia": "Lei de Registros Públicos",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm"
+        },
+        {
+          "norma": "Lei 9.514/1997",
+          "referencia": "Alienação fiduciária de imóvel",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
+        }
+      ],
+      "proximaEtapa": "ANALISE_DOCUMENTAL",
+      "fontes": [
+        {
+          "titulo": "ONR: certidões de imóveis pela internet",
+          "url": "https://registradores.onr.org.br"
+        }
+      ],
+      "revisado": false,
+      "dataRevisao": null
+    },
+    {
+      "id": 3,
+      "categoria": "ESCRITURA_REGISTRO",
+      "titulo": "Como saber se o imóvel tem escritura e registro",
+      "perguntaRelacionada": "Como checar se o imóvel possui escritura?",
+      "conteudo": "Escritura e registro são coisas diferentes. A escritura é feita no Tabelionato de Notas. O registro é feito no Cartório de Registro de Imóveis, e é o registro que passa a propriedade para o seu nome. Para saber se existe registro, peça a matrícula atualizada e veja se o vendedor aparece como dono.",
+      "cuidados": [
+        "Contrato de gaveta ou recibo não transferem a propriedade.",
+        "Se o vendedor não aparece como dono na matrícula, pare e procure orientação antes de pagar.",
+        "A escritura sozinha não prova que você é o dono: falta o registro."
+      ],
+      "baseLegal": [
+        {
+          "norma": "Código Civil (Lei 10.406/2002)",
+          "referencia": "",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+        },
+        {
+          "norma": "Lei 6.015/1973",
+          "referencia": "Lei de Registros Públicos",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm"
+        },
+        {
+          "norma": "Lei 8.935/1994",
+          "referencia": "Cartórios (notas e registro)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8935.htm"
+        }
+      ],
+      "proximaEtapa": "ESCRITURA",
+      "fontes": [
+        {
+          "titulo": "ONR: certidões de imóveis pela internet",
+          "url": "https://registradores.onr.org.br"
+        },
+        {
+          "titulo": "Colégio Notarial do Brasil",
+          "url": "https://www.notariado.org.br"
+        }
+      ],
+      "revisado": false,
+      "dataRevisao": null
+    },
+    {
+      "id": 4,
+      "categoria": "ESCRITURA_REGISTRO",
+      "titulo": "Passos e custos da escritura e do registro",
+      "perguntaRelacionada": "Quanto custa fazer a escritura?",
+      "conteudo": "Em geral os passos são: pagar o ITBI na prefeitura, reunir os documentos e as certidões, fazer a escritura no Tabelionato de Notas e levar a escritura ao Registro de Imóveis. As taxas de cartório (emolumentos) são tabeladas por cada estado e mudam conforme o valor do imóvel. Em alguns financiamentos o próprio contrato do banco substitui a escritura.",
+      "cuidados": [
+        "Consulte a tabela de emolumentos do Tribunal de Justiça do seu estado.",
+        "Peça ao cartório uma lista de documentos antes de ir.",
+        "Guarde todos os comprovantes de pagamento."
+      ],
+      "baseLegal": [
+        {
+          "norma": "Código Civil (Lei 10.406/2002)",
+          "referencia": "",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+        },
+        {
+          "norma": "Lei 6.015/1973",
+          "referencia": "Lei de Registros Públicos",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm"
+        },
+        {
+          "norma": "Lei 9.514/1997",
+          "referencia": "Alienação fiduciária de imóvel",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
+        }
+      ],
+      "proximaEtapa": "ESCRITURA",
+      "fontes": [
+        {
+          "titulo": "Colégio Notarial do Brasil",
+          "url": "https://www.notariado.org.br"
+        }
+      ],
+      "revisado": false,
+      "dataRevisao": null
+    },
+    {
+      "id": 5,
+      "categoria": "CONTRATO",
+      "titulo": "Contrato de compra e venda, sinal e desistência",
+      "perguntaRelacionada": "Posso desistir da compra depois de assinar?",
+      "conteudo": "Antes de assinar, leia o contrato inteiro. Confira os nomes, o número da matrícula, o preço, a forma de pagamento, o prazo, as multas e quem paga cada custo. O sinal (arras) é um adiantamento: pelo Código Civil, quem dá o sinal e desiste costuma perdê-lo, e quem recebe e desiste costuma devolver em dobro, salvo o que o contrato disser. A desistência depende do que está escrito no contrato.",
+      "cuidados": [
+        "Não assine com pressa nem com páginas em branco.",
+        "Peça cópia de tudo e guarde recibos de qualquer pagamento.",
+        "Leve o contrato a um advogado ou à Defensoria antes de assinar."
+      ],
+      "baseLegal": [
+        {
+          "norma": "Código Civil (Lei 10.406/2002)",
+          "referencia": "",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+        }
+      ],
+      "proximaEtapa": "NEGOCIACAO_CONTRATO",
+      "fontes": [],
+      "revisado": false,
+      "dataRevisao": null
+    },
+    {
+      "id": 6,
+      "categoria": "FINANCIAMENTO",
+      "titulo": "Como funciona o financiamento habitacional",
+      "perguntaRelacionada": "Como funciona o financiamento habitacional?",
+      "conteudo": "Você paga uma entrada e o banco financia o resto, em parcelas. O banco analisa sua renda, seu histórico de crédito e o imóvel. Muitos bancos limitam a parcela a cerca de 30% da renda, mas isso é regra do banco, não da lei. Nos financiamentos o próprio imóvel fica como garantia (alienação fiduciária): se as parcelas pararem, o imóvel pode ser retomado e leiloado.",
+      "cuidados": [
+        "Simule em mais de um banco e compare o custo total (CET), não só a parcela.",
+        "Informe só a renda real e comprovada.",
+        "Pergunte sobre seguros e taxas.",
+        "Confira se pode amortizar ou quitar antes do prazo."
+      ],
+      "baseLegal": [
+        {
+          "norma": "Lei 9.514/1997",
+          "referencia": "Alienação fiduciária de imóvel",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
+        }
+      ],
+      "proximaEtapa": "NEGOCIACAO_CONTRATO",
+      "fontes": [
+        {
+          "titulo": "Caixa: habitação",
+          "url": "https://www.caixa.gov.br/voce/habitacao/"
+        }
+      ],
+      "revisado": false,
+      "dataRevisao": null
+    },
+    {
+      "id": 7,
+      "categoria": "FGTS_SUBSIDIOS",
+      "titulo": "FGTS e subsídios para a casa própria",
+      "perguntaRelacionada": "Posso usar o FGTS para comprar a casa?",
+      "conteudo": "O FGTS pode ajudar na entrada, nas parcelas ou na amortização, desde que as regras sejam cumpridas, por exemplo tempo de trabalho com FGTS e não ter outro financiamento ativo. O programa Minha Casa, Minha Vida tem faixas de renda e subsídio que mudam com o tempo. Confira as regras de hoje no banco que vai financiar.",
+      "cuidados": [
+        "Confirme no app do FGTS e no banco se você atende aos requisitos.",
+        "Faixas de renda e valores de subsídio mudam: não confie em informação antiga.",
+        "Desconfie de quem cobra para liberar subsídio ou FGTS."
+      ],
+      "baseLegal": [
+        {
+          "norma": "Lei 8.036/1990",
+          "referencia": "FGTS",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm"
+        },
+        {
+          "norma": "Lei 14.620/2023",
+          "referencia": "Programa Minha Casa, Minha Vida",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14620.htm"
+        }
+      ],
+      "proximaEtapa": "PESQUISA_IMOVEL",
+      "fontes": [
+        {
+          "titulo": "Caixa: habitação",
+          "url": "https://www.caixa.gov.br/voce/habitacao/"
+        },
+        {
+          "titulo": "Ministério das Cidades",
+          "url": "https://www.gov.br/cidades/pt-br"
+        }
+      ],
+      "revisado": false,
+      "dataRevisao": null
+    },
+    {
+      "id": 8,
+      "categoria": "IMPOSTOS_TAXAS",
+      "titulo": "ITBI, IPTU, ganho de capital e outros custos",
+      "perguntaRelacionada": "Quais impostos pago ao comprar um imóvel?",
+      "conteudo": "O ITBI é o imposto da compra: é cobrado pela prefeitura, e a alíquota e as isenções mudam de cidade para cidade. Em geral quem compra paga, mas confira o contrato. IPTU e condomínio atrasados ficam ligados ao imóvel e podem ser cobrados do novo dono. Quem vende com lucro pode ter imposto de renda sobre o ganho de capital, e existem regras de isenção. Some também escritura, registro, avaliação do banco e seguros.",
+      "cuidados": [
+        "Pergunte na prefeitura da cidade do imóvel o valor e as isenções do ITBI.",
+        "Peça certidão negativa de IPTU e declaração do condomínio.",
+        "Nunca confie em promessa de isenção sem conferir na fonte oficial."
+      ],
+      "baseLegal": [
+        {
+          "norma": "Código Tributário Nacional (Lei 5.172/1966)",
+          "referencia": "arts. 35 e 130",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm"
+        },
+        {
+          "norma": "Lei 11.196/2005",
+          "referencia": "art. 39 (ganho de capital na venda de imóvel residencial)",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2005/lei/l11196.htm"
+        },
+        {
+          "norma": "Código Civil (Lei 10.406/2002)",
+          "referencia": "",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+        }
+      ],
+      "proximaEtapa": "ITBI_TRIBUTOS",
+      "fontes": [
+        {
+          "titulo": "Receita Federal",
+          "url": "https://www.gov.br/receitafederal/pt-br"
+        }
+      ],
+      "revisado": false,
+      "dataRevisao": null
+    },
+    {
+      "id": 9,
+      "categoria": "LEILAO",
+      "titulo": "Comprar imóvel em leilão",
+      "perguntaRelacionada": "Como funciona comprar imóvel em leilão?",
+      "conteudo": "Imóvel de leilão pode ter preço menor, mas tem riscos: pode estar ocupado, ter dívidas e ter regras de pagamento rígidas. As regras mudam conforme o tipo: leilão judicial, leilão do banco (alienação fiduciária) ou venda direta. Tudo vem no edital, que precisa ser lido por inteiro junto com a matrícula.",
+      "cuidados": [
+        "Leia o edital e a matrícula antes de dar qualquer lance.",
+        "Veja se o imóvel está ocupado e quem paga as dívidas.",
+        "Pague só pelos canais oficiais do edital.",
+        "Desconfie de leilão em site desconhecido ou com preço bom demais."
+      ],
+      "baseLegal": [
+        {
+          "norma": "Lei 9.514/1997",
+          "referencia": "Alienação fiduciária de imóvel",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l9514.htm"
+        },
+        {
+          "norma": "Código de Processo Civil (Lei 13.105/2015)",
+          "referencia": "venda em leilão judicial",
+          "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm"
+        },
+        {
+          "norma": "Decreto 21.981/1932",
+          "referencia": "Leiloeiros",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto/1930-1949/d21981.htm"
+        }
+      ],
+      "proximaEtapa": "PESQUISA_IMOVEL",
+      "fontes": [
+        {
+          "titulo": "Caixa: habitação",
+          "url": "https://www.caixa.gov.br/voce/habitacao/"
+        }
+      ],
+      "revisado": false,
+      "dataRevisao": null
+    },
+    {
+      "id": 10,
+      "categoria": "IMOVEL_USADO",
+      "titulo": "Checklist para comprar imóvel usado",
+      "perguntaRelacionada": "Quais documentos o vendedor precisa me entregar?",
+      "conteudo": "Peça do vendedor documento de identidade, CPF, certidão de estado civil, certidões negativas, comprovante de IPTU em dia e declaração do condomínio. Peça a matrícula atualizada e confira se a construção está registrada. Se o vendedor é casado, em regra o cônjuge também precisa assinar. Se o dono faleceu, a venda depende do inventário.",
+      "cuidados": [
+        "Visite o imóvel com calma e, se possível, leve alguém de confiança.",
+        "Confira se a área real bate com a da matrícula.",
+        "Pergunte sobre dívidas de condomínio.",
+        "Em caso de inventário ou herança, procure um advogado antes de pagar."
+      ],
+      "baseLegal": [
+        {
+          "norma": "Código Civil (Lei 10.406/2002)",
+          "referencia": "",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm"
+        },
+        {
+          "norma": "Lei 6.015/1973",
+          "referencia": "Lei de Registros Públicos",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm"
+        }
+      ],
+      "proximaEtapa": "ANALISE_DOCUMENTAL",
+      "fontes": [],
+      "revisado": false,
+      "dataRevisao": null
+    },
+    {
+      "id": 11,
+      "categoria": "FRAUDE_GOLPES",
+      "titulo": "Fraude no financiamento: renda ou imposto de renda alterados",
+      "perguntaRelacionada": "O corretor alterou meu imposto de renda para conseguir o financiamento, o que acontece?",
+      "conteudo": "Informar renda falsa ou alterar o imposto de renda para conseguir financiamento pode ser crime, mesmo quando a ideia veio do corretor. Pode haver responsabilidade de quem assina e também consequências com a Receita Federal e com o banco. Desconfie de quem diz que faz acontecer com a sua renda.",
+      "cuidados": [
+        "Não assine documento que você não entende ou com campo em branco.",
+        "Se algo assim já aconteceu, procure um advogado ou a Defensoria antes de qualquer iniciativa por conta própria.",
+        "Guarde mensagens e documentos que mostram o que foi combinado.",
+        "Use sempre a renda real."
+      ],
+      "baseLegal": [
+        {
+          "norma": "Lei 7.492/1986",
+          "referencia": "art. 19 (fraude para obter financiamento)",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l7492.htm"
+        },
+        {
+          "norma": "Código Penal (Decreto-Lei 2.848/1940)",
+          "referencia": "arts. 171 e 299",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+        }
+      ],
+      "proximaEtapa": "NEGOCIACAO_CONTRATO",
+      "fontes": [
+        {
+          "titulo": "Receita Federal",
+          "url": "https://www.gov.br/receitafederal/pt-br"
+        }
+      ],
+      "revisado": false,
+      "dataRevisao": null
+    },
+    {
+      "id": 12,
+      "categoria": "FRAUDE_GOLPES",
+      "titulo": "Golpes na compra: anúncio, PIX e boleto",
+      "perguntaRelacionada": "Como saber se o anúncio do imóvel é golpe?",
+      "conteudo": "Sinais de golpe: preço muito abaixo do mercado, pressa para pagar, sinal por PIX antes de ver o imóvel e o contrato, vendedor que não mostra a matrícula e boleto com nome diferente do vendedor. Para se proteger, confira a matrícula e a identidade do dono e pague somente depois de conferir tudo.",
+      "cuidados": [
+        "Não pague nada antes de ver o imóvel e a matrícula.",
+        "Confira o nome do dono na matrícula e no pagamento.",
+        "Em caso de golpe, registre boletim de ocorrência e avise o banco."
+      ],
+      "baseLegal": [
+        {
+          "norma": "Código Penal (Decreto-Lei 2.848/1940)",
+          "referencia": "arts. 171 e 299",
+          "url": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del2848compilado.htm"
+        },
+        {
+          "norma": "Lei 6.015/1973",
+          "referencia": "Lei de Registros Públicos",
+          "url": "https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm"
+        }
+      ],
+      "proximaEtapa": "ANALISE_DOCUMENTAL",
+      "fontes": [
+        {
+          "titulo": "ONR: certidões de imóveis pela internet",
+          "url": "https://registradores.onr.org.br"
+        }
+      ],
+      "revisado": false,
+      "dataRevisao": null
+    }
+  ],
+  "etapas": [
+    {
+      "id": 1,
+      "codigo": "PESQUISA_IMOVEL",
+      "ordem": 1,
+      "nome": "Pesquisa e escolha do imóvel",
+      "descricao": "Defina quanto pode pagar, simule o financiamento e visite os imóveis.",
+      "documentos": [
+        "Documento de identidade e CPF",
+        "Comprovante de renda"
+      ],
+      "cuidados": [
+        "Compare preços",
+        "Não pague nada antes de conferir os documentos"
+      ]
+    },
+    {
+      "id": 2,
+      "codigo": "ANALISE_DOCUMENTAL",
+      "ordem": 2,
+      "nome": "Análise documental",
+      "descricao": "Confira a matrícula, as certidões e as dívidas antes de fechar negócio.",
+      "documentos": [
+        "Matrícula atualizada",
+        "Certidão de ônus reais",
+        "Certidões do vendedor",
+        "IPTU e condomínio em dia"
+      ],
+      "cuidados": [
+        "Documentos recentes",
+        "Nome do dono igual ao do vendedor"
+      ]
+    },
+    {
+      "id": 3,
+      "codigo": "NEGOCIACAO_CONTRATO",
+      "ordem": 3,
+      "nome": "Negociação e contrato",
+      "descricao": "Combine preço e forma de pagamento e leia o contrato inteiro antes de assinar.",
+      "documentos": [
+        "Minuta do contrato",
+        "Comprovantes de sinal"
+      ],
+      "cuidados": [
+        "Não assine com pressa",
+        "Guarde cópia de tudo"
+      ]
+    },
+    {
+      "id": 4,
+      "codigo": "ESCRITURA",
+      "ordem": 4,
+      "nome": "Escritura ou instrumento aplicável",
+      "descricao": "Feita no Tabelionato de Notas, ou pelo contrato do banco quando o financiamento permitir.",
+      "documentos": [
+        "Documentos pessoais",
+        "Certidões",
+        "Comprovante de ITBI"
+      ],
+      "cuidados": [
+        "Veja a tabela de emolumentos do estado"
+      ]
+    },
+    {
+      "id": 5,
+      "codigo": "ITBI_TRIBUTOS",
+      "ordem": 5,
+      "nome": "ITBI e tributos",
+      "descricao": "Pague o ITBI na prefeitura e confira IPTU e condomínio.",
+      "documentos": [
+        "Guia de ITBI paga"
+      ],
+      "cuidados": [
+        "Valor e isenções mudam por cidade"
+      ]
+    },
+    {
+      "id": 6,
+      "codigo": "REGISTRO_IMOVEL",
+      "ordem": 6,
+      "nome": "Registro imobiliário",
+      "descricao": "Leve a escritura ao Registro de Imóveis: o registro passa o imóvel para o seu nome.",
+      "documentos": [
+        "Escritura",
+        "Comprovante de ITBI"
+      ],
+      "cuidados": [
+        "Acompanhe o pedido e atenda a nota devolutiva, se houver"
+      ]
+    }
+  ],
+  "fora_do_escopo": "Eu só ajudo com a compra do primeiro imóvel. Posso explicar documentos, contrato, financiamento, FGTS, impostos, leilão e golpes. Tente perguntar sobre um desses assuntos."
+}
