@@ -52,11 +52,20 @@ def intencao():
           "print('Respondidas direto:', int(resp.sum()), 'de', len(conf))\n"
           "print('Acertos entre as respondidas direto:', round(float(acertou[resp].mean()), 3))\n"
           "print('Erros que ficaram abaixo do limiar (seguros):', int((~acertou & ~resp).sum()), 'de', int((~acertou).sum()))"),
-        M("## 5. Exemplos reais (incluindo o caso de fraude do corretor)"),
+        M("## 5. Teste cego e perguntas reais do Instagram\n"
+          "O teste de desenvolvimento (seção 2) **guiou ajustes** do treino, então já não é independente (por isso chega perto de 100%). "
+          "Os dois conjuntos abaixo são as medidas mais honestas:\n"
+          "- **Teste cego**: 55 frases escritas **depois** do ajuste final e usadas para medir.\n"
+          "- **Validação real**: 11 perguntas **reais** de pessoas do Instagram do projeto, que **nunca entram no treino**. "
+          "Atenção: o autor das frases de treino já conhecia essas perguntas, então o resultado é otimista."),
+        C("import sys; sys.path.insert(0, str(Path.cwd().parent / 'treino'))\nfrom treino import avaliar_intencao\nresultado = avaliar_intencao.main(nucleo.MODELOS / 'modelo_intencao.joblib')\npd.DataFrame(resultado).T"),
+        C("cego = pd.read_csv(nucleo.DADOS / 'intencao_teste_cego.csv')\nprev = pipe.predict(cego.texto); conf_c = pipe.predict_proba(cego.texto).max(axis=1).round(2)\n"
+          "cego.assign(previsto=prev, confianca=conf_c)[prev != cego.rotulo.values]"),
+        M("## 6. Exemplos reais (incluindo o caso de fraude do corretor)"),
         C("exemplos = ['O corretor alterou meu IRRF e colocou minha esposa como dependente', 'Como sei se o imóvel tem escritura?', 'Posso usar FGTS na entrada?', 'Quero comprar um tênis', 'oi']\n"
           "linhas = []\nfor q in exemplos:\n    p = pipe.predict_proba([q])[0]; i = p.argmax(); linhas.append((q, pipe.classes_[i], round(float(p[i]), 2)))\n"
           "pd.DataFrame(linhas, columns=['pergunta','categoria','confianca'])"),
-        M("## 6. Exportação\nO modelo é salvo em `.joblib` e carregado pela API Flask (`app.py`)."),
+        M("## 7. Exportação\nO modelo é salvo em `.joblib` e carregado pela API Flask (`app.py`)."),
         C("caminho = nucleo.exportar(pipe, 'intencao'); print('salvo em', caminho.name, '|', round(caminho.stat().st_size/1024), 'KB')"),
         M("## 7. Limitações e riscos\n- Poucas frases sintéticas: reavaliar com perguntas reais antes de usar fora da apresentação.\n"
           "- Confiança alta **não** significa resposta jurídica correta: o texto vem do catálogo revisado.\n"

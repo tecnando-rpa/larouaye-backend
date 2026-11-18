@@ -1,35 +1,35 @@
 {
   "intencao": {
     "modelo": "intencao",
-    "amostras_treino": 690,
-    "amostras_teste": 40,
-    "acuracia_teste": 0.9,
-    "f1_macro_teste": 0.9016,
+    "amostras_treino": 1476,
+    "amostras_teste": 98,
+    "acuracia_teste": 1.0,
+    "f1_macro_teste": 1.0,
     "por_classe": {
       "CONTRATO": {
-        "precision": 0.8,
+        "precision": 1.0,
         "recall": 1.0,
-        "f1-score": 0.889
+        "f1-score": 1.0
       },
       "ESCRITURA_REGISTRO": {
         "precision": 1.0,
-        "recall": 0.75,
-        "f1-score": 0.857
+        "recall": 1.0,
+        "f1-score": 1.0
       },
       "FGTS_SUBSIDIOS": {
-        "precision": 0.8,
+        "precision": 1.0,
         "recall": 1.0,
-        "f1-score": 0.889
+        "f1-score": 1.0
       },
       "FINANCIAMENTO": {
-        "precision": 0.6,
-        "recall": 0.75,
-        "f1-score": 0.667
+        "precision": 1.0,
+        "recall": 1.0,
+        "f1-score": 1.0
       },
       "FORA_DO_ESCOPO": {
         "precision": 1.0,
-        "recall": 0.75,
-        "f1-score": 0.857
+        "recall": 1.0,
+        "f1-score": 1.0
       },
       "FRAUDE_GOLPES": {
         "precision": 1.0,
@@ -48,8 +48,8 @@
       },
       "LEILAO": {
         "precision": 1.0,
-        "recall": 0.75,
-        "f1-score": 0.857
+        "recall": 1.0,
+        "f1-score": 1.0
       },
       "MATRICULA_ONUS": {
         "precision": 1.0,
@@ -69,11 +69,21 @@
       "LEILAO",
       "MATRICULA_ONUS"
     ],
-    "treinado_em": "2026-11-14"
+    "treinado_em": "2026-11-18",
+    "teste_cego": {
+      "amostras": 55,
+      "acuracia": 0.9273,
+      "f1_macro": 0.9235
+    },
+    "validacao_real_instagram": {
+      "amostras": 11,
+      "acuracia": 1.0,
+      "f1_macro": 1.0
+    }
   },
   "etapa": {
     "modelo": "etapa",
-    "amostras_treino": 361,
+    "amostras_treino": 362,
     "amostras_teste": 18,
     "acuracia_teste": 0.8889,
     "f1_macro_teste": 0.8857,
@@ -117,6 +127,6 @@
       "PESQUISA_IMOVEL",
       "REGISTRO_IMOVEL"
     ],
-    "treinado_em": "2026-11-14"
+    "treinado_em": "2026-11-18"
   }
 }
