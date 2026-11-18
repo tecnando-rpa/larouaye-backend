@@ -3,39 +3,97 @@ Preciso ver se o apartamento tem alguma divida no cartorio,MATRICULA_ONUS
 Como e a certidao de matricula atualizada?,MATRICULA_ONUS
 O imovel pode estar com penhora ou hipoteca?,MATRICULA_ONUS
 Como consultar os onus que pesam sobre a casa?,MATRICULA_ONUS
+Quais certidoes devo exigir do dono do imovel?,MATRICULA_ONUS
+Que papel eu peço no cartorio pra ver se o imovel tem problema?,MATRICULA_ONUS
+Que documentos pedir pra ter seguranca na compra?,MATRICULA_ONUS
+O que significa cada item da matricula?,MATRICULA_ONUS
+Como ver se existe processo contra o vendedor?,MATRICULA_ONUS
+"Quero saber se a casa tem penhora, hipoteca ou acao na justica",MATRICULA_ONUS
 A casa tem escritura registrada em cartorio?,ESCRITURA_REGISTRO
 Qual o custo para escriturar e registrar?,ESCRITURA_REGISTRO
 Quem so tem contrato de gaveta e dono do imovel?,ESCRITURA_REGISTRO
 Como funciona o registro no cartorio de imoveis?,ESCRITURA_REGISTRO
+Como faco para o imovel ficar registrado no meu nome?,ESCRITURA_REGISTRO
+"Depois de pagar, o que preciso fazer para ser o dono no papel?",ESCRITURA_REGISTRO
+Quanto tempo demora para o cartorio registrar a compra?,ESCRITURA_REGISTRO
+A escritura sozinha ja me torna dono?,ESCRITURA_REGISTRO
 Quais cuidados antes de assinar a compra e venda?,CONTRATO
 "Se eu der sinal e desistir, perco o dinheiro?",CONTRATO
 Como e uma promessa de compra e venda?,CONTRATO
 Quais pontos olhar no contrato do corretor?,CONTRATO
+O que tem que constar no contrato de compra da casa?,CONTRATO
+"Dei sinal e me arrependi, o que acontece?",CONTRATO
+Posso assinar contrato de compra e venda sem advogado?,CONTRATO
+Quais clausulas abusivas olhar no contrato do imovel?,CONTRATO
 Como o banco financia a compra da casa?,FINANCIAMENTO
 Quanto precisa dar de entrada no financiamento?,FINANCIAMENTO
 Qual a parcela maxima em relacao ao salario?,FINANCIAMENTO
 Que papeis o banco pede para financiar?,FINANCIAMENTO
+consorcio de casa e uma boa?,FINANCIAMENTO
+Como e que funciona esse negocio de consorcio para imovel?,FINANCIAMENTO
+Qual valor de apartamento cabe no meu salario de cinco mil?,FINANCIAMENTO
+Como descubro o quanto posso gastar numa casa sem me enforcar?,FINANCIAMENTO
+"Quero pagar parcelas extras do financiamento, como faco?",FINANCIAMENTO
+Da pra amortizar a divida do imovel quando eu quiser?,FINANCIAMENTO
+Qual banco e melhor pra pegar financiamento de casa?,FINANCIAMENTO
+Comparar juros de bancos para financiar a casa propria,FINANCIAMENTO
+A avaliacao do banco deu menos do que a construtora pediu,FINANCIAMENTO
+"Meu imovel foi avaliado abaixo do preco, como fica a entrada?",FINANCIAMENTO
+"Quero financiar minha primeira casa, por onde comeco?",FINANCIAMENTO
+Como e o processo todo de financiar um apartamento?,FINANCIAMENTO
+Posso entrar em um consorcio para pagar a entrada do imovel?,FINANCIAMENTO
+Qual e a parcela que cabe no meu orcamento para comprar casa?,FINANCIAMENTO
 Como usar o saldo do FGTS na compra do imovel?,FGTS_SUBSIDIOS
 Quem pode participar do Minha Casa Minha Vida?,FGTS_SUBSIDIOS
 Existe subsidio do governo para quem compra a primeira casa?,FGTS_SUBSIDIOS
 O FGTS pode entrar como entrada?,FGTS_SUBSIDIOS
+Se eu pegar subsidio posso quitar antes de 5 anos?,FGTS_SUBSIDIOS
+"Vendi a casa do Minha Casa Minha Vida antes do prazo, perco o beneficio?",FGTS_SUBSIDIOS
+O FGTS pode ser usado pra abater o saldo devedor?,FGTS_SUBSIDIOS
+Preciso devolver o desconto do subsidio se terminar de pagar antes?,FGTS_SUBSIDIOS
+Quem pode pedir subsidio para comprar casa?,FGTS_SUBSIDIOS
+Como usar meu FGTS na compra da casa propria?,FGTS_SUBSIDIOS
 Que impostos incidem na compra de um imovel?,IMPOSTOS_TAXAS
 Quem arca com o ITBI?,IMPOSTOS_TAXAS
 Preciso pagar imposto se vender minha casa com lucro?,IMPOSTOS_TAXAS
 Quanto se paga de taxas no cartorio?,IMPOSTOS_TAXAS
+Quanto vou gastar de cartorio e imposto para ficar com o imovel no meu nome?,IMPOSTOS_TAXAS
+Qual o custo do ITBI mais escritura e registro?,IMPOSTOS_TAXAS
+Tem taxa de cartorio pra regularizar o imovel?,IMPOSTOS_TAXAS
+Preciso pagar algum imposto antes de registrar a compra?,IMPOSTOS_TAXAS
 E seguro arrematar imovel em leilao?,LEILAO
 Quais cuidados antes de dar lance em leilao de imovel?,LEILAO
 Como funciona a compra de casa retomada pelo banco?,LEILAO
 Imovel de leilao vem com dividas?,LEILAO
+Imovel de leilao vem com divida?,LEILAO
+Como dar lance em leilao de casa?,LEILAO
+Comprar casa que o banco retomou e seguro?,LEILAO
+Quais cuidados no leilao de apartamento?,LEILAO
 Que documentos o dono do apartamento usado deve apresentar?,IMOVEL_USADO
 Como conferir um imovel antigo antes de comprar?,IMOVEL_USADO
 A esposa do vendedor precisa assinar a venda?,IMOVEL_USADO
 O condominio pode ter debitos que passam para mim?,IMOVEL_USADO
+"Vou comprar a casa da familia da minha esposa, como me proteger de heranca?",IMOVEL_USADO
+"Comprando imovel de parente, os outros herdeiros podem reclamar?",IMOVEL_USADO
+"Pai vendeu o apartamento pra mim, meus irmaos precisam concordar?",IMOVEL_USADO
+Imovel de heranca com inventario aberto pode ser vendido?,IMOVEL_USADO
+O que verificar numa casa antiga antes de fechar?,IMOVEL_USADO
+"O vendedor e casado, a mulher precisa assinar tambem?",IMOVEL_USADO
 "O corretor mexeu na minha declaracao de renda para aprovar o credito, isso e crime?",FRAUDE_GOLPES
 Como perceber um golpe na venda de imovel?,FRAUDE_GOLPES
 Pediram PIX adiantado de um imovel que nem visitei,FRAUDE_GOLPES
 Informar renda falsa no financiamento tem consequencia?,FRAUDE_GOLPES
+Alteraram minha renda no financiamento sem eu pedir,FRAUDE_GOLPES
+"O anuncio da casa parece golpe, como confirmar?",FRAUDE_GOLPES
+"Me pediram PIX pra reservar o apartamento, devo pagar?",FRAUDE_GOLPES
+O corretor aumentou meu salario no papel para o banco aprovar,FRAUDE_GOLPES
 Qual o melhor time de futebol do Brasil?,FORA_DO_ESCOPO
 Como fazer um bolo de chocolate?,FORA_DO_ESCOPO
 Quero comprar um celular novo,FORA_DO_ESCOPO
 Quanto custa uma passagem de aviao?,FORA_DO_ESCOPO
+Como fazer consorcio de carro?,FORA_DO_ESCOPO
+"Quero alugar uma casa, quanto custa?",FORA_DO_ESCOPO
+Qual a melhor receita de lasanha?,FORA_DO_ESCOPO
+Como emprestar dinheiro no banco para abrir um negocio?,FORA_DO_ESCOPO
+Quem vai ganhar o campeonato?,FORA_DO_ESCOPO
+Como renovar a carteira de motorista?,FORA_DO_ESCOPO

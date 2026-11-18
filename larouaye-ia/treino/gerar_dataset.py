@@ -8,6 +8,8 @@ import csv
 import random
 from pathlib import Path
 
+from frases_extras import EXTRA_TESTE, EXTRA_TREINO
+
 DADOS = Path(__file__).resolve().parent.parent / "dados"
 
 INTENCAO = {
@@ -214,8 +216,11 @@ def gravar(nome, linhas):
 
 
 def main():
-    rnd = random.Random(42)
-    for nome, base, teste in (("intencao", INTENCAO, INTENCAO_TESTE), ("etapa", ETAPA, ETAPA_TESTE)):
+    # As frases extras (treino/frases_extras.py) ampliam o modelo de INTENCAO; a ETAPA segue como estava.
+    intencao = {r: fs + EXTRA_TREINO.get(r, []) for r, fs in INTENCAO.items()}
+    intencao_teste = {r: fs + EXTRA_TESTE.get(r, []) for r, fs in INTENCAO_TESTE.items()}
+    for semente, (nome, base, teste) in enumerate((("intencao", intencao, intencao_teste), ("etapa", ETAPA, ETAPA_TESTE)), start=42):
+        rnd = random.Random(semente)  # uma semente por conjunto: mexer em um nao muda o outro
         treino = [x for r, fs in base.items() for x in aumentar(fs, r, 4, rnd)]
         rnd.shuffle(treino)
         gravar(f"{nome}_treino.csv", treino)

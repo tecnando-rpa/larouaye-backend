@@ -1,0 +1,56 @@
+texto,rotulo
+quero saber como funciona consorcio pra comprar apartamento,FINANCIAMENTO
+"meu salario e 3500, ate quanto posso pagar numa casa?",FINANCIAMENTO
+pode explicar como amortizar a prestacao da casa?,FINANCIAMENTO
+qual banco cobra menos juros no financiamento da casa?,FINANCIAMENTO
+"o banco disse que o imovel vale menos, preciso cobrir a diferenca?",FINANCIAMENTO
+como e feito o calculo da parcela do financiamento?,FINANCIAMENTO
+quanto de entrada os bancos pedem hoje?,FINANCIAMENTO
+vale mais a pena consorcio ou financiamento para quem esta comecando?,FINANCIAMENTO
+tenho direito a desconto do governo na compra da primeira casa?,FGTS_SUBSIDIOS
+se eu quitar o imovel do programa habitacional antes de 5 anos o que acontece?,FGTS_SUBSIDIOS
+posso pagar a entrada com o dinheiro do fundo de garantia?,FGTS_SUBSIDIOS
+qual a regra do Minha Casa Minha Vida para renda de 2500?,FGTS_SUBSIDIOS
+quanto tempo de carteira assinada preciso pra usar o FGTS?,FGTS_SUBSIDIOS
+"vou comprar um apartamento usado, o que olhar alem do preco?",IMOVEL_USADO
+"minha sogra quer vender a casa pra gente, tem algum risco com os cunhados?",IMOVEL_USADO
+"o proprietario faleceu e a casa esta em inventario, da pra comprar?",IMOVEL_USADO
+o que e habite-se e preciso dele numa casa velha?,IMOVEL_USADO
+como saber se o condominio do predio tem pendencias antes de comprar?,IMOVEL_USADO
+que certidoes eu tenho que juntar antes de fechar a compra?,MATRICULA_ONUS
+onde vejo se a casa esta penhorada?,MATRICULA_ONUS
+como pedir a matricula do apartamento no cartorio?,MATRICULA_ONUS
+quero saber se o dono do imovel esta devendo ou respondendo processo,MATRICULA_ONUS
+o que quer dizer onus na matricula?,MATRICULA_ONUS
+quanto vou pagar de ITBI na compra?,IMPOSTOS_TAXAS
+"alem do valor da casa, que despesas de cartorio e prefeitura eu tenho?",IMPOSTOS_TAXAS
+quem paga o laudemio na compra do imovel?,IMPOSTOS_TAXAS
+existe desconto no imposto de transmissao para primeiro imovel?,IMPOSTOS_TAXAS
+"vou vender minha casa mais cara do que paguei, tem imposto?",IMPOSTOS_TAXAS
+qual a diferenca entre lavrar escritura e registrar?,ESCRITURA_REGISTRO
+"fiz so o contrato de gaveta, como regularizo?",ESCRITURA_REGISTRO
+quanto custa o registro do imovel no cartorio?,ESCRITURA_REGISTRO
+quais documentos levar pra fazer a escritura da casa?,ESCRITURA_REGISTRO
+depois do registro o imovel passa pro meu nome?,ESCRITURA_REGISTRO
+quais cuidados antes de assinar o contrato com a construtora?,CONTRATO
+se eu desistir da compra o vendedor fica com o sinal?,CONTRATO
+"o corretor falou pra assinar rapido a promessa de compra, devo?",CONTRATO
+o que e distrato e quando se usa?,CONTRATO
+o contrato pode ter multa pesada se eu atrasar?,CONTRATO
+leilao de imovel e arriscado pra quem nunca comprou?,LEILAO
+tenho que pagar as dividas da casa que arrematei?,LEILAO
+como funciona o lance no leilao judicial?,LEILAO
+da pra financiar imovel que veio do leilao?,LEILAO
+"recebi um boleto da casa com o nome de outra pessoa, e golpe?",FRAUDE_GOLPES
+"o corretor disse pra aumentar minha renda no papel, e crime?",FRAUDE_GOLPES
+pediram sinal por PIX de um imovel que eu nem vi,FRAUDE_GOLPES
+como evitar cair em golpe quando for comprar casa?,FRAUDE_GOLPES
+falsificaram meus documentos para financiar um imovel,FRAUDE_GOLPES
+qual o melhor restaurante da cidade?,FORA_DO_ESCOPO
+como faco pra emagrecer em um mes?,FORA_DO_ESCOPO
+quero financiar uma moto,FORA_DO_ESCOPO
+qual o resultado do jogo de ontem?,FORA_DO_ESCOPO
+como trocar a senha do meu email?,FORA_DO_ESCOPO
+me ajuda a escrever uma carta de apresentacao,FORA_DO_ESCOPO
+quanto custa um plano de celular?,FORA_DO_ESCOPO
+como funciona seguro de carro?,FORA_DO_ESCOPO
