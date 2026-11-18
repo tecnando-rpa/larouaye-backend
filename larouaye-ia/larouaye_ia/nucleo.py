@@ -63,6 +63,17 @@ def treinar_e_avaliar(nome: str, pipe: Pipeline) -> dict:
     }
 
 
+def medir_extra(pipe: Pipeline, arquivo: str) -> dict | None:
+    """Mede em um CSV de avaliacao a parte (teste cego, perguntas reais). Nao participa do treino."""
+    caminho = DADOS / arquivo
+    if not caminho.exists():
+        return None
+    df = pd.read_csv(caminho)
+    previsto = pipe.predict(df["texto"])
+    return {"amostras": int(len(df)), "acuracia": round(float(accuracy_score(df["rotulo"], previsto)), 4),
+            "f1_macro": round(float(f1_score(df["rotulo"], previsto, average="macro")), 4)}
+
+
 def exportar(pipe: Pipeline, nome: str) -> Path:
     MODELOS.mkdir(exist_ok=True)
     caminho = MODELOS / f"modelo_{nome}.joblib"
@@ -75,6 +86,10 @@ def treinar_tudo() -> dict:
     for nome, fabrica in (("intencao", pipeline_intencao), ("etapa", pipeline_etapa)):
         pipe = fabrica()
         metricas[nome] = treinar_e_avaliar(nome, pipe)
+        if nome == "intencao":
+            # O teste de desenvolvimento guiou ajustes; os dois conjuntos abaixo sao as medidas mais honestas.
+            metricas[nome]["teste_cego"] = medir_extra(pipe, "intencao_teste_cego.csv")
+            metricas[nome]["validacao_real_instagram"] = medir_extra(pipe, "intencao_validacao_real.csv")
         exportar(pipe, nome)
     (MODELOS / "metricas.json").write_text(json.dumps(metricas, ensure_ascii=False, indent=2), encoding="utf-8")
     return metricas

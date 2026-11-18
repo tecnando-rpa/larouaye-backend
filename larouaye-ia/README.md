@@ -9,13 +9,13 @@
 | `modelos/` | `modelo_intencao.joblib`, `modelo_etapa.joblib`, `metricas.json` | A02 |
 | `app.py` | API Flask: `/classificar` e backend de DESENVOLVIMENTO no contrato do front | A04 |
 | `larouaye_ia/telegram_bot.py` | bot do Telegram (webhook ou polling) | extra |
-| `tests/` | 30 testes (pytest) | |
+| `tests/` | 33 testes (pytest) | |
 
 ## Rodar (5 comandos)
 ```bash
 python -m venv .venv && source .venv/bin/activate      # Windows: .venv\Scripts\activate
 pip install -r requirements.txt pytest
-python -m pytest -q                                      # 30 testes
+python -m pytest -q                                      # 33 testes
 python app.py                                            # API em http://localhost:5000
 ```
 Front junto: no projeto React, crie `.env` com `VITE_PROXY_TARGET=http://localhost:5000` e rode `npm run dev`.
@@ -29,8 +29,29 @@ O front fala com `/api/...`, o Vite repassa para o Flask. **Nenhuma linha do fro
 | Dados | `dados/intencao_*.csv` | `dados/etapa_*.csv` |
 | Métricas | `modelos/metricas.json` e notebook 01 | `modelos/metricas.json` e notebook 02 |
 
-Retreinar: `python treino/gerar_dataset.py && python -m larouaye_ia.nucleo` (e reexecutar os notebooks:
-`cd notebooks && jupyter nbconvert --to notebook --execute --inplace *.ipynb`).
+### Dados, avaliação honesta e como retreinar
+| Arquivo | Papel |
+|---|---|
+| `treino/gerar_dataset.py` + `treino/frases_extras.py` | geram `dados/intencao_*.csv` e `etapa_*.csv` (frases-base + reforços escritos à mão, sementes fixas 42 e 43: mesmo resultado a cada execução) |
+| `dados/intencao_teste.csv` | teste de **desenvolvimento**: guiou ajustes, então **não é independente** (por isso ~100%) |
+| `dados/intencao_teste_cego.csv` | 55 frases escritas **depois** do ajuste final, só para medir |
+| `dados/intencao_validacao_real.csv` | 11 perguntas **reais** do Instagram do projeto, **nunca** entram no treino |
+| `treino/avaliar_intencao.py` | mede os três conjuntos com os limiares reais (0,70 e 0,30) |
+
+Resultados atuais do Modelo 1 (`modelos/metricas.json` e notebook 01):
+
+| Conjunto | Acerto | Responde direto | Acerto quando responde |
+|---|---|---|---|
+| Desenvolvimento (98) | 100% | 88% | 100% |
+| **Teste cego (55)** | **92,7%** | 89% | 98% |
+| Perguntas reais (11) | 100% | 100% | 100% |
+
+Limites: as frases de treino, do teste cego e de reforço foram escritas pela mesma equipe (e as 11 reais já eram conhecidas de quem escreveu o reforço),
+então o número real fora da apresentação tende a ser menor. **Cada integrante pode acrescentar frases suas em `dados/intencao_teste_cego.csv`** para medir de novo.
+Para ensinar um assunto novo, acrescente frases em `treino/frases_extras.py`.
+
+Retreinar: `python treino/gerar_dataset.py && python -m larouaye_ia.nucleo && python treino/avaliar_intencao.py` e reexecutar os notebooks:
+`cd treino && python gerar_notebooks.py && cd ../notebooks && jupyter nbconvert --to notebook --execute --inplace *.ipynb`.
 
 **Decisão pela confiança** (`larouaye_ia/servico.py`): `>= 0,70` responde; `0,30 a 0,70` pergunta qual dos 3 assuntos mais prováveis
 (`ESCLARECIMENTO`); `< 0,30` diz que não entendeu. Assunto fora do tema recebe aviso, sem texto jurídico.

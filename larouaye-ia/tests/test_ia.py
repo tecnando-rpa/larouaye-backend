@@ -36,6 +36,31 @@ def test_metricas_minimas_nos_dois_modelos():
     assert m["etapa"]["acuracia_teste"] >= 0.85
 
 
+def test_teste_cego_e_validacao_real_nao_vazam_para_o_treino():
+    tr, _ = nucleo.carregar("intencao")
+    treino = set(tr.texto.str.lower().str.rstrip("?"))
+    for arquivo in ("intencao_teste_cego.csv", "intencao_validacao_real.csv"):
+        df = pd.read_csv(nucleo.DADOS / arquivo)
+        assert not treino & set(df.texto.str.lower().str.rstrip("?")), arquivo
+
+
+def test_teste_cego_mantem_acuracia_e_precisao_quando_responde():
+    """Mede em frases escritas depois do ajuste final. Se cair, alguem piorou o modelo."""
+    from treino import avaliar_intencao
+    r = avaliar_intencao.main(nucleo.MODELOS / "modelo_intencao.joblib")["teste_cego"]
+    assert r["acuracia"] >= 0.88
+    assert r["acerto_quando_responde"] >= 0.95
+
+
+def test_perguntas_reais_do_instagram_sao_respondidas_direto_e_na_categoria_certa():
+    modelo, _ = servico.modelos()
+    real = pd.read_csv(nucleo.DADOS / "intencao_validacao_real.csv")
+    for texto, esperado in zip(real.texto, real.rotulo):
+        c = servico.classificar(texto)
+        assert c["categoria"] == esperado, texto
+        assert c["confianca"] >= servico.LIMIAR_RESPONDER, (texto, c["confianca"])
+
+
 def test_modelos_sao_diferentes():
     a, b = servico.modelos()
     assert type(a.named_steps["clf"]) is not type(b.named_steps["clf"])
@@ -82,8 +107,10 @@ def test_fora_do_escopo_nao_inventa_resposta_juridica():
     assert r["status"] == "FORA_DO_ESCOPO" and not r["resposta"]["baseLegal"] if "baseLegal" in r["resposta"] else True
 
 
-def test_texto_sem_sentido_nao_e_reconhecido():
-    assert servico.responder("asdf qwer", fontes=SEM_REDE)["status"] in ("NAO_RECONHECIDA", "ESCLARECIMENTO")
+def test_texto_sem_sentido_nunca_vira_orientacao_juridica():
+    """Texto sem sentido pode cair em fora do escopo, nao reconhecida ou esclarecimento. Nunca em RESPONDIDA."""
+    for texto in ("asdf qwer", "kkkk", "??? ???", "xyz abc 123"):
+        assert servico.responder(texto, fontes=SEM_REDE)["status"] in ("NAO_RECONHECIDA", "ESCLARECIMENTO", "FORA_DO_ESCOPO"), texto
 
 
 def test_toda_resposta_traz_aviso_de_informacao_geral_e_de_revisao():
